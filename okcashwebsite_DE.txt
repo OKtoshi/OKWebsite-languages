@@ -100,46 +100,57 @@ Folge OK
 
 ******b1
 
-Individuals
+Für den Einzelnen
 
-OKCash für Jeden
+OKCash für den Einzelnen
+
 Die Zukunft von Zahlungen über soziale Netzwerke
 
-OKCash on mobiles is a perfect way to tip, share OK or pay for products and services on the go. It allows you to pay in a real easy and fast way by either scanning a QR code to make the payment, or by typing the address directly to send the coins. No need to sign up, swipe cards, type a PIN, or anything else. All you need to receive OK payments is to display the QR code in your OKCash app and let your friend scan your mobile. You can also use some of the Social networks to send OK anywhere without the need for the recipient to even have an OKCash wallet installed to be able to get them.
-Security, coin control
+OKCash auf Handys ist ein perfekter Weg zum Geben von Trinkgeld, Teilen von OK oder unterwegs für Produkte und Dienstleistungen zu bezahlen. Es erlaubt Ihnen auf einem wirklich einfachen und schnellen Weg zu bezahlen, indem Sie entweder einen QR-Code scannen, um die Zahlung zu tätigen, oder indem Sie die Adresse direkt eingeben, um die Coins zu senden. Sie brauchen sich nirgends registrieren oder anzumelden, Karten verwenden, eine PIN einzugeben, oder irgendetwas anderes. Alles was Sie benötigen um OK-Zahlungen zu erhalten, ist es den QR-Code in Ihrer OKCash App zu zeigen und dann lassen Sie beispielsweise Ihren Freund Ihr Handy scannen. Sie können auch einige der sozialen Netzwerke verwenden, um OK überall zu hinzusenden, ohne dass der Empfänger auch eine OKCash-Wallet installiert haben muss, um sie zu bekommen.
 
-OKCash transactions are secured by military grade cryptography. Nobody can charge you money or make a payment on your behalf. And as long as you take the required steps to secure your wallet, OKCash can give you full control over your money and a strong level of protection against many types of fraud. You are always in control of your own money and can use the coin control system to have even more detailed experience.
-Works everywhere all the time
+Sicherheit, Kontrolle über Ihre Coins
 
-Just like the world wide web. The OKCash Network is live 24/7 365 days per year and accessible from any part of the world with an internet connection, it is always available and accesible by any of the different wallets or services. You are free to use either one of the online wallets, the core wallet, the daemons or one of the different multiwallets for Android for OKCash, so every user can select their favorite clients. No problem there; All clients are compatible as they use the same open technology. The network is decentralized hence is free from middle men and central points of failure.
-Fast and easy International payments
+OKCash-Transaktionen werden durch militärische Kryptographie gesichert. Niemand kann Ihnen Geld in Rechnung stellen oder eine Zahlung in Ihrem Namen tätigen. Und solange Sie die erforderlichen Schritte zur Sicherung Ihrer Wallet vornehmen, kann OKCash Ihnen die volle Kontrolle über Ihr Geld und ein starkes Maß an Schutz gegen viele Arten von Betrug geben. Sie haben immer die Kontrolle über Ihr eigenes Geld und können das Coin-Kontrollsystem nutzen, um noch detailliertere Erfahrungen zu haben.
 
-Sending OK across borders is as easy as sending an email. There are no waiting times like with banks, nor extra fees or special limitations like the minimum or maximum amount you can send, you have full control and the reciever will see the payment reflected in seconds.
-Lowest fees on market
+Funktioniert überall und die ganze Zeit
 
-There is no fee to receive OKCash, and the fee for sending is just 0.0001 OKcash no matter where you send it, being one of the lowest fees in the market. On some wallets you can control how large a fee to pay when spending. higher fees can encourage even faster confirmations of your transactions.
-Protect your identity
+Genau wie das Internet. Das OKCash Network ist 24 Stunden am Tag, 7 Tage die Woche und 365 Tage im Jahr und zugänglich von jedem Teil der Welt mit einer Internetverbindung, es ist immer verfügbar und zugänglich für jede der verschiedenen Wallets oder Dienstleistungen. Sie habe die Wahl, entweder eine der Online-Wallet, die Haupt-Wallet, die Daemons oder eine der verschiedenen Multiwallets für Android für OKCash zu verwenden, so dass jeder Benutzer sein Lieblingsprogramm auswählen kann. Kein Problem, alle Programme sind kompatibel, da sie die gleiche offene Technologie verwenden. Das Netzwerk ist dezentralisiert also frei von Zwischenhändlern und zentralen Fehlerstellen.
 
-With OKCash, there is no data that some malicious actor can collect in order to impersonate you. In fact by using good habits to protect your privacy you can send a payment without revealing your identity.
+Schnelle und einfache internationale Zahlungen
+
+Das Senden von OK über die ganze Welt ist so einfach wie das Senden einer E-Mail. Es gibt keine Wartezeiten wie bei Banken, noch zusätzliche Gebühren oder spezielle Einschränkungen wie die minimale oder maximale Menge, die Sie senden können. Sie haben die volle Kontrolle und der Empfänger wird die Zahlung in Sekunden bei sich eingehen sehen.
+
+Die niedrigsten Gebühren auf dem Markt
+
+Es gibt keine Gebühr um OKCash zu erhalten, und die Gebühr für das Senden beträgt nur 0.0001 OKcash egal wohin Sie es senden, eine der niedrigsten Gebühren auf dem Markt. Auf einigen Wallets können Sie einstellen, wie hoch die Gebühr für eine Überweisung sein soll. Höhere Gebühren können jedoch noch schnellere Bestätigungen Ihrer Transaktionen anregen.
+
+Schütze deine Identität
+
+Mit OKCash gibt es keine Daten, die ein böswilliger Mensch nutzen könnte um sich als Sie auszugeben. Durch die Verwendung von sicheren Verhaltensweisen können Sie Ihre Privatsphäre schützen ohne Ihre Identität preis zu geben.
 
 
 ******b2
 
-Businesses
+Für Unternehmen
 
- OKCash for Businesses
-Lowest fees on market
+OKCash für Unternehmen
 
-There is no fee to receive OKCash, and the fee for sending is just 0.0001 OK no matter where you send it, being one of the lowest fees in the market. On some wallets you can control how large a fee to pay when spending. higher fees can encourage even faster confirmations of your transactions.
-Protection against fraud
+Die niedrigsten Gebühren auf dem Markt
 
-Any business that accepts credit cards or PayPal knows the problem of payments that are later reversed. Charge back frauds result in limited market reach and increased prices, which in turn penalizes customers. OKCash payments are irreversible and secure, meaning that the cost of fraud is no longer pushed onto the shoulders of the merchants.
-Fast and easy International payments
+Es gibt keine Gebühr um OKCash zu erhalten, und die Gebühr für das Senden beträgt nur 0.0001 OKcash egal wohin Sie es senden, eine der niedrigsten Gebühren auf dem Markt. Auf einigen Wallets können Sie einstellen, wie hoch die Gebühr für eine Überweisung sein soll. Höhere Gebühren können jedoch noch schnellere Bestätigungen Ihrer Transaktionen anregen.
 
-Sending OK across borders is as easy as sending an email. There are no waiting times like with banks, nor extra fees or special limitations like the minimum or maximum amount you can send, you have full control and the receiver will see the payment reflected in seconds.
+Schutz vor Betrug
+
+Jedes Unternehmen, das Kreditkarten oder PayPal akzeptiert, kennt das Problem der Zahlungen, die später zurückgezogen werden. Die Schadensersatzansprüche führen zu einer begrenzten Marktreichweite und zu erhöhten Preisen, was wiederum die Kunden benachteiligt. OKCash-Zahlungen sind irreversibel und sicher, was bedeutet, dass die Betrugskosten nicht mehr auf den Schultern der Händler lastet.
+
+Schnelle und einfache internationale Zahlungen
+
+Das Senden von OK über die ganze Welt ist so einfach wie das Senden einer E-Mail. Es gibt keine Wartezeiten wie bei Banken, noch zusätzliche Gebühren oder spezielle Einschränkungen wie die minimale oder maximale Menge, die Sie senden können. Sie haben die volle Kontrolle und der Empfänger wird die Zahlung in Sekunden bei sich eingehen sehen.
+
 No PCI compliance required
 
 Accepting credit cards online typically requires extensive security checks in order to comply with the PCI standard. OKCash still requires you to secure your wallet and your payment requests. However, you do not carry the costs and responsibilities that come with processing sensitive information from your customers like credit card numbers.
+
 Gain more exposure
 
 OKCash is an emerging market of new customers who are searching for ways to spend their OKCash. Accepting them is a good way to get new customers and give your business some new visibility. Accepting a new payment method has often shown to be a clever practice for online businesses.
