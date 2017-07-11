@@ -147,76 +147,84 @@ Schnelle und einfache internationale Zahlungen
 
 Das Senden von OK über die ganze Welt ist so einfach wie das Senden einer E-Mail. Es gibt keine Wartezeiten wie bei Banken, noch zusätzliche Gebühren oder spezielle Einschränkungen wie die minimale oder maximale Menge, die Sie senden können. Sie haben die volle Kontrolle und der Empfänger wird die Zahlung in Sekunden bei sich eingehen sehen.
 
-No PCI compliance required
+Keine PCI Zertifizierung notwendig
 
-Accepting credit cards online typically requires extensive security checks in order to comply with the PCI standard. OKCash still requires you to secure your wallet and your payment requests. However, you do not carry the costs and responsibilities that come with processing sensitive information from your customers like credit card numbers.
+Das Akzeptieren von Kreditkarten online erfordert in der Regel umfangreiche Sicherheits-Checks, um den PCI-Standard einzuhalten. OKCash erfordert noch, dass Sie Ihre Wallet und Ihre Zahlungsaufforderung sichern. Allerdings tragen Sie nicht die Kosten und die Verantwortung, die mit der Verarbeitung von sensiblen Informationen Ihrer Kunden kommt, wie Kreditkarteninformationen.
 
-Gain more exposure
+Gewinnen Sie an Aufsehen
 
-OKCash is an emerging market of new customers who are searching for ways to spend their OKCash. Accepting them is a good way to get new customers and give your business some new visibility. Accepting a new payment method has often shown to be a clever practice for online businesses.
-Accounting transparency
+OKCash ist ein aufstrebender Markt von neuen Kunden, die nach Möglichkeiten suchen, ihre OKCash auszugeben. Akzeptieren ist ein guter Weg, um neue Kunden zu bekommen und geben Ihrem Unternehmen eine neue Präsenz auf dem Markt. Die Annahme einer neuen Zahlungsmethode hat sich oft als eine geschickte Praxis für Online-Unternehmen gezeigt.
 
-Many organizations are required to produce accounting documents about their activity. Using OK allows you to offer the highest level of transparency since you can provide information your members can use to verify your balances and transactions. Non-profit organizations can also allow the public to see how much they receive in donations, empowering them by the transparency of the system.
+Transparenz in der Buchhaltung
+
+Viele Organisationen sind verpflichtet, Buchhaltungsunterlagen über ihre Tätigkeit zu erstellen. Mit OK können Sie die höchstmögliche Transparenz bieten, da Sie Informationen zur Verfügung stellen können, die Ihre Mitglieder verwenden können um Ihre Salden und Transaktionen zu prüfen. Durch die Transparenz des Systems können Non-Profit-Organisationen der Öffentlichkeit zeigen, wie viele Spendengelder sie erhalten haben.
 
 ******b3
 
-Developers
+Entwickler
 
- OKCash for Developers
-Simplest and most Social of all payment systems
+OKCash für Entwickler
+ 
+Einfachstes und sozialstes Zahlungssystem
 
-Unless payment needs to be associated with automatic invoices, accepting money is as simple as sending an OKCash address link or displaying an OK QR code. This simple setup is within reach of any user and can fulfill the needs of a good range of clients. When done publicly, it is especially suitable for transparent donations and tips. You can even share OKCash via IRC or the different Social Networks like Reddit or twitter without even having a wallet installed.
-Third party APIs
+Sofern die Zahlung nicht mit automatischen Rechnungen verknüpft werden muss, ist die Annahme von Geld so einfach wie das Senden einer OKCash-Adressverbindung oder die Anzeige eines OK-QR-Codes. Dieses einfache Setup kann jeder nutzen und erfüllt die Bedürfnisse einer großen Menge an Kunden. Wenn das System öffentlich gehalten wird, eignet es sich besonders für transparente Spenden und Trinkgelder. Sie können sogar OKCash über IRC oder die verschiedenen Sozialen Netzwerke wie Reddit oder Twitter teilen, ohne auch nur eine Wallet-Software installiert zu haben.
 
-There are many third party payment processing services that provide APIs; you don't need to store OKCash on your server and handle the security that this implies. Additionally, most of these APIs allow you to process invoices and exchange your OKCash into your local currency at competitive costs. Being Open Source you can use them to create new services as well.
-You can be your own financial system
+APIs für Drittanbieter
 
-If you don't use any third party APIs, you can integrate an OKCash node directly into your applications, allowing you to become your own bank and payment processor. With all the responsibilities that this implies, you can build amazing systems that process OKCash transactions however you would like.
-OKCash addresses to track invoices
+Es gibt viele Drittanbieter für Zahlungsabwicklungsdienste, die APIs bereitstellen; Sie müssen nicht OKCash auf Ihrem Server zu speichern und müssen sich keine Gedanken über ein Sicherheitskonzept machen. Darüber hinaus können die meisten dieser APIs Rechnungen verarbeiten und Ihre OKCash in Ihre Hauswährung zu wettbewerbsfähigen Kosten umtauschen. Als Open Source Software können Sie sie auch nutzen, um neue Dienste zu erstellen.
 
-OK creates a unique address for each transaction. So if you were to build a payment system associated with an invoice, you simply need to generate and monitor an OK address for each payment. You should never use the same address for more than one transaction.
-Most of the security is on the client side
+Sie können Ihr eigenes Finanzsystem sein
 
-Most security is handled by the protocol, eliminating the need for PCI compliance. Fraud prevention can be simplified down to monitoring a single variable: the confirmation score. Beyond that, keeping your OK secure is mainly a matter of securing your wallet and using HTTPS or other secure protocols to send payment requests to customers.
-The Future of Social Payments
+Wenn Sie keine Drittanbieter-APIs verwenden, können Sie einen OKCash-Knoten direkt in Ihre Anwendungen integrieren, so dass Sie Ihre eigene Bank und Zahlungsprozessor werden können. Mit all den Verantwortlichkeiten, die dies impliziert, können Sie erstaunliche Systeme erschaffen, die OKCash-Transaktionen verarbeiten wie Sie es möchten.
 
-OKCash allows you to design new and creative online services that couldn't exist before because of financial limitations. This includes tipping systems, automated payment solutions, distributed crowd-funding services, time locked payment management, public asset tracking, low-trust escrow services, micro-payment channels, staking pools and much more.
+OKCash-Adressen, um Rechnungen zu verfolgen
+
+OK erstellt eine eindeutige Adresse für jede Transaktion. Also, wenn Sie ein Zahlungssystem für Ihre Rechnungen aufbauen, müssen Sie nur eine OK-Adresse für jede Zahlung zu generieren und zu verfolgen. Sie sollten die gleiche Adresse nie für mehr als eine Transaktion verwenden.
+
+Das Meiste der Sicherheit ist auf der Client-Seite
+
+Die meiste Sicherheit wird durch das Protokoll bereitgestellt, wodurch die Notwendigkeit einer PCI-Zertifizierung verfällt. Einem Betrug kann einfach vorgebeugt werden, indem Sie eine einzelne Variable überwachen: die Bestätigungswertung einer Transaktion. Ob Ihre Ok sicher sind hängt hauptsächlich davon ab, wie sicher Sie Ihre Wallet halten und HTTPS oder andere sichere Protokolle für Zahlungsaufforderungen an Kunden verwenden.
+
+Die Zukunft von Zahlungen über soziale Netzwerke
+
+Mit OKCash können Sie neue und kreative Online-Services entwerfen, die vor finanziellen Einschränkungen nicht existieren konnten. Dazu gehören Trinkgeldsysteme, automatisierte Zahlungslösungen, verteilte Crowd-Finanzierungsservices, zeitgesteuertes Zahlungsmanagement, Public Asset Tracking, vertrauenswürdige Treuhanddienste, Micro-Payment-Kanäle, Staking-Pools und vieles mehr.
 
 ******b4
 
- Getting Started
-How to use OKCash
+Der Anfang
+Wie wird OKCash genutzt
 
- 
-1. Inform yourself
+1. Informieren Sie sich
 
-OKCash is different than what you know and use every day. Before you start using OKCash, there are a few things that you need to know in order to use it securely and avoid common pitfalls.
+OKCash ist anders als das, was Sie wissen und jeden Tag verwenden. Bevor Sie mit OKCash anfangen, gibt es ein paar Dinge, die Sie wissen müssen, um es sicher zu benutzen und gängige Fallstricke zu vermeiden.
 
-Read more
+Weiterlesen
 
-2. Choose your wallet
+2. Wählen Sie Ihre Wallet
 
-You can bring a OKCash wallet in your everyday life with your mobile or you can have a wallet only for online payments on your IoT device or in your computer. In any case, choosing your wallet can be done in a minute.
-Choose your OK wallet
+Sie können eine OKCash Wallet in Ihrem Alltag mit Ihrem Handy einbringen oder Sie können eine Wallet nur für Online-Zahlungen auf Ihrem IoT-Gerät oder auf Ihrem Computer nutzen. In jedem Fall kann die Wahl Ihrer Wallet in einer Minute erfolgen.
+Wählen Sie Ihre Wallet
 	  	
-3. Get OKCash
+3. Erhalten Sie OKCash
 
-You can get OKCash by accepting them as a payment for goods and services or by buying them from a friend or someone near you. You can also buy them directly from an exchange with your bank account.
-Find exchanges
-4. Spend OKCash
+Sie können OKCash erhalten, indem Sie sie als eine Zahlung für Waren und Dienstleistungen annehmen oder in dem Sie sie von einem Freund oder jemand in Ihrer Nähe kaufen. Sie können sie auch direkt von einer Börse mit Ihrem Bankkonto kaufen.
+Finden Sie Börsenplattformen
 
-There is a growing number of services and merchants accepting OKCash all over the world. You can use OKCash to pay them and rate your experience to help honest businesses to gain more visibility.
-Find merchants
+4. OKCash ausgeben
+
+Es gibt eine wachsende Zahl von Dienstleistungen und Händler, die OKCash auf der ganzen Welt akzeptieren. Sie können OKCash verwenden, um sie zu bezahlen und am Besten bewerten Sie Ihre Erfahrungen anschließend, um ehrlichen Unternehmen zu helfen, mehr Aufsehen zu erreichen.
+Finden Sie Händler
 
 
 
-How to accept OKCash
+Wie kann OKCash akzeptiert werden
 
  
 1. Inform yourself
 
 OKCash does not require merchants to change their habits. However, OKCash is different than what you know and use every day. Before you start using OKCash, there are a few things that you need to know in order to use it securely and avoid common pitfalls.
 Read more
+
 2. Processing payments
 
 You can process payments and invoices by yourself or you can use merchant services and deposit money in your local currency or OKCash. Most point of sales businesses use a tablet or a mobile phone to let customers pay with their mobile phones.
