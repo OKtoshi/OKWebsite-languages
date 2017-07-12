@@ -265,9 +265,9 @@ Einige Dinge, die Sie wissen müssen
 
 Wenn Sie im Begriff sind, OKCash zu erforschen, gibt es ein paar Dinge, die Sie wissen sollten. OKCash lässt Sie Geld auf andere Weise austauschen als bei den üblichen Banken. Als solches sollten Sie sich Zeit nehmen, um sich zu informieren, bevor Sie OKCash für eine ernsthafte Transaktion verwenden. OKCash sollte mit der gleichen Pflege wie Ihre reguläre Brieftasche behandelt werden, oder besser in einigen Fällen.
 
-Sichern Sie Ihre Wallet
+Schützen Sie Ihre Wallet
 
-Wie im wirklichen Leben muss Ihre Wallet gesichert werden. OKCash macht es möglich, den Wert überall auf eine sehr einfache Art und Weise zu übertragen und es Ihnen erlaubt, die Kontrolle über Ihr Geld zu haben. Solche großartigen Features kommen auch mit großen Sicherheitsbedenken. Gleichzeitig kann OKCash ein sehr hohes Maß an Sicherheit bieten, wenn es richtig verwendet wird. Denken Sie aber immer daran, dass es Ihre Verantwortung ist, bewährte Praktiken einzusetzen, um Ihr Geld zu schützen. Lesen Sie mehr über die Sicherung Ihrer Wallet.
+Wie im wirklichen Leben muss Ihre Wallet geschützt werden. OKCash macht es möglich, den Wert überall auf eine sehr einfache Art und Weise zu übertragen und es Ihnen erlaubt, die Kontrolle über Ihr Geld zu haben. Solche großartigen Features kommen auch mit großen Sicherheitsbedenken. Gleichzeitig kann OKCash ein sehr hohes Maß an Sicherheit bieten, wenn es richtig verwendet wird. Denken Sie aber immer daran, dass es Ihre Verantwortung ist, bewährte Praktiken einzusetzen, um Ihr Geld zu schützen. Lesen Sie mehr über die Sicherung Ihrer Wallet.
 
 OKCash Preis ist flüchtig
 
@@ -275,86 +275,90 @@ Der Preis eines OKCash kann aufgrund seiner jungen Wirtschaft, neuartigen Natur 
 
 OKCash-Zahlungen sind irreversibel
 
-Jede Transaktion, die mit OKCash gemacht wird, kann nicht rückgängig gemacht werden, sie können nur von der Person zurückerstattet werden, die die Mittel erhält. Das heißt, Sie sollten darauf achten, Geschäfte mit Menschen und Organisationen zu machen, die Sie kennen und vertrauen, oder die einen guten Ruf haben. Für ihren Teil müssen Unternehmen die Kontrolle über die Zahlungswünsche behalten, die sie ihren Kunden anzeigen. OKCash kann Tippfehler erkennen und wird in der Regel nicht zulassen, dass Sie Geld zu einer ungültigen Adresse versehentlich senden. Zusätzliche Dienste könnten in Zukunft bestehen, um mehr Auswahl und Schutz für den Verbraucher zu bieten.
+Jede Transaktion, die mit OKCash gemacht wird, kann nicht rückgängig gemacht werden, sie können nur von der Person zurückerstattet werden, die die Mittel erhält. Das heißt, Sie sollten darauf achten, Geschäfte mit Menschen und Organisationen zu machen, die Sie kennen und vertrauen, oder die einen guten Ruf haben.Unternehmen müssen die Kontolle über ihre Zahlungsaufforderungen behalten, die diese ihren Kunden anzeigen. OKCash kann Tippfehler erkennen und wird in der Regel nicht zulassen, dass Sie Geld zu einer ungültigen Adresse versehentlich senden. Zusätzliche Dienste könnten in Zukunft entstehen, um mehr Auswahl und Schutz für den Verbraucher zu bieten.
+
 OKCash ist nicht anonym
 
-Manche Anstrengungen sind erforderlich, um Ihre Privatsphäre mit OK zu schützen. Alle OK-Transaktionen werden öffentlich und dauerhaft im Netzwerk gespeichert, was bedeutet, dass jeder die Balance und Transaktionen jeder OK-Adresse sehen kann. Die Identität des Benutzers hinter einer Adresse bleibt unbekannt, bis Informationen während eines Kaufs oder unter anderen Umständen offen gelegt werden. Dies ist ein Grund, warum OK-Adressen nur einmal verwendet werden sollten. Denken Sie immer daran, dass es Ihre Verantwortung ist, bewährte Praktiken anzunehmen, um Ihre Privatsphäre zu schützen. Lesen Sie mehr zum Schutz Ihrer Privatsphäre.
+Es ist etwas mehr Aufwand erforderlich um Ihre Privatsphäre rund um OKCash zu schützen. Alle OK-Transaktionen werden öffentlich und dauerhaft im Netzwerk gespeichert, was bedeutet, dass jeder den Saldo und Transaktionen jeder OK-Adresse sehen kann. Die Identität des Benutzers hinter einer Adresse bleibt unbekannt, bis Informationen während eines Kaufs oder unter anderen Umständen offen gelegt werden. Dies ist ein Grund, warum OK-Adressen nur einmal verwendet werden sollten. Denken Sie immer daran, dass es Ihre Verantwortung ist, bewährte Praktiken anzunehmen, um Ihre Privatsphäre zu schützen. Lesen Sie mehr zum Schutz Ihrer Privatsphäre.
+
 Unbestätigte Transaktionen sind nicht sicher
 
-If you are about to explore OKCash, there are a few things you should know. OKCash lets you exchange money in a different way than with usual banks. As such, you should take time to inform yourself before using OKCash for any serious transaction. OKCash should be treated with the same care as your regular wallet, or even more in some cases.
-Securing your wallet
+Transaktionen sind nicht von Anfang an irreversibel, stattdessen erhalten sie eine Bestätigungswertung, die angibt, wie schwer es ist, sie umzukehren (siehe Tabelle). Jede Bestätigung dauert zwischen 40 und 69 Sekunden, wobei 1 Minute der Durchschnitt ist. Wenn die Transaktion zu wenig überweist oder eher untypisch ist, kann die erste Bestätigung länger dauern.
 
-Like in real life, your wallet must be secured. OKCash makes it possible to transfer value anywhere in a very easy way and it allows you to be in control of your money. Such great features also come with great security concerns. At the same time, OKCash can provide very high levels of security if used correctly. Always remember that it is your responsibility to adopt good practices in order to protect your money. Read more about securing your wallet.
-OKCash price is volatile
+Bestätigungen 	Leichte Wallet 	OKCash Core
+0 	Nur sicher, wenn Sie der Person vertrauen, die Sie bezahlt hat
+1 	Etwas zuverlässig 	    Meist zuverlässig
+5 	Meist zuverlässig 	        Äußerst zuverlässig
+10 	Minimale Empfehlung für höherwertige OKCash-Transaktionen
 
-The price of a OKCash can unpredictably increase or decrease over a short period of time due to its young economy, novel nature, and sometimes illiquid markets. Consequently, keeping your savings with OKCash is not recommended at this point. OKCash should be seen like a high risk asset, and you should never store money that you cannot afford to lose with OKCash. If you receive payments with OKCash, many service providers can convert them to your local currency.
-OKCash payments are irreversible
+OKCash ist noch experimentell
 
-Any transaction issued with OKCash cannot be reversed, they can only be refunded by the person receiving the funds. That means you should take care to do business with people and organizations you know and trust, or who have an established reputation. For their part, businesses need to keep control of the payment requests they are displaying to their customers. OKCash can detect typos and usually won't let you send money to an invalid address by mistake. Additional services might exist in the future to provide more choice and protection for the consumer.
-OKCash is not anonymous
+OKCash ist eine experimentelle neue Währung, die sich in der aktiven Entwicklung befindet. Jede Verbesserung macht OKCash attraktiver, zeigt aber auch neue Herausforderungen, wie die OKCash-Akzeptanz wächst. Während dieser Wachstumsschmerzen können Sie auf erhöhte Gebühren, langsame Bestätigungen oder noch schwerere Probleme stoßen. Seien Sie auf Probleme vorbereitet und konsultieren Sie einen Fachmann, bevor Sie größere Investitionen tätigen, aber denken Sie daran, dass niemand die Zukunft von OKCash vorhersagen kann.
 
-Some effort is required to protect your privacy with OK. All OK transactions are stored publicly and permanently on the network, which means anyone can see the balance and transactions of any OK address. The identity of the user behind an address remains unknown until information is revealed during a purchase or in other circumstances. This is one reason why OK addresses should only be used once. Always remember that it is your responsibility to adopt good practices in order to protect your privacy. Read more about protecting your privacy.
-Unconfirmed transactions aren't secure
+Regierungssteuern und Vorschriften
 
-Transactions don't start out as irreversible. Instead, they get a confirmation score that indicates how hard it is to reverse them (see table). Each confirmation takes between 40 and 69 seconds, with 1 minute being the average. If the transaction pays too low a fee or is otherwise atypical, getting the first confirmation can take longer.
+OKCash ist keine offizielle Währung. Das heißt, die meisten Staaten verlangen immer noch, dass Sie auf Einkommen, Umsatz, Lohn- und Gehaltsabrechnung Steuern zahlen, auf alles was Wert hat, einschließlich OKCash. Es liegt in Ihrer Verantwortung, sicherzustellen, dass Sie sich an Steuer- und sonstige gesetzliche oder behördliche Mandate halten, die von Ihrer Regierung und / oder den örtlichen Gemeinden ausgestellt wurden.
 
-Confirm­ations 	Lightweight wallets 	OKCash Core
-0 	Only safe if you trust the person paying you
-1 	Somewhat reliable 	    Mostly reliable
-5 	Mostly reliable 	        Highly reliable
-10 	Minimum recommendation for high-value OKCash transfers
-
-OKCash is still experimental
-
-OKCash is an experimental new currency that is in active development. Each improvement makes OKCash more appealing but also reveals new challenges as OKCash adoption grows. During these growing pains you might encounter increased fees, slower confirmations, or even more severe issues. Be prepared for problems and consult a technical expert before making any major investments, but keep in mind that nobody can predict OKCash's future.
-Government taxes and regulations
-
-OKCash is not an official currency. That said, most jurisdictions still require you to pay income, sales, payroll, and capital gains taxes on anything that has value, including OKCash. It is your responsibility to ensure that you adhere to tax and other legal or regulatory mandates issued by your government and/or local municipalities.
 
 ******b7
 
- Secure your Wallet
+Schützen Sie Ihre Wallet
 
-Like in real life, your wallet must be secured. OKCash makes it possible to transfer value anywhere in a very easy way and it allows you to be in control of your money. Such great features also come with great security concerns. At the same time, OKCash can provide very high levels of security if used correctly. Always remember that it is your responsibility to adopt good practices in order to protect your money.
-Be careful with online services
+Wie im wirklichen Leben muss Ihre Wallet geschützt werden. OKCash macht es möglich, den Wert überall auf eine sehr einfache Art und Weise zu übertragen und es Ihnen erlaubt, die Kontrolle über Ihr Geld zu haben. Solche großartigen Features kommen auch mit großen Sicherheitsbedenken. Gleichzeitig kann OKCash ein sehr hohes Maß an Sicherheit bieten, wenn es richtig verwendet wird. Denken Sie aber immer daran, dass es Ihre Verantwortung ist, bewährte Praktiken einzusetzen, um Ihr Geld zu schützen. Lesen Sie mehr über die Sicherung Ihrer Wallet.
 
-You should be wary of any service designed to store your money online. Many exchanges and online wallets suffered from security breaches in the past and such services generally still do not provide enough insurance and security to be used to store money like a bank. Accordingly, you might want to use other types of OKCash wallets. Otherwise, you should choose such services very carefully. Additionally, using two-factor authentication is recommended.
-Small amounts for everyday uses
+Seien Sie vorsichtig mit Online-Diensten
 
-A OKCash wallet is like a wallet with cash. If you wouldn't keep a thousand dollars in your pocket, you might want to have the same consideration for your OKCash wallet. In general, it is a good practice to keep only small amounts of OK on your computer, mobile, or server for everyday uses and to keep the remaining part of your funds in a safer environment.
-Backup your wallet
+Sie sollten mit jeder Dienstleistung vorsichtig sein, die Ihr Geld online ablegt. Viele Börsen und Online-Wallets litten unter Sicherheitslücken in der Vergangenheit und solche Dienste bieten in der Regel noch nicht genug Schutz und Sicherheit, um verwendet zu werden, um Geld wie eine Bank zu halten. Dementsprechend wollen Sie vielleicht auch andere Arten von OKCash Wallets verwenden. Andernfalls sollten Sie diese Leistungen sehr sorgfältig wählen. Zusätzlich wird immer eine Zwei-Faktor-Authentifizierung empfohlen.
 
-Stored in a safe place, a backup of your wallet can protect you against computer failures and many human mistakes. It can also allow you to recover your wallet after your mobile or computer was stolen if you keep your wallet encrypted.
-Backup your entire wallet
+Kleine Mengen für den täglichen Gebrauch
 
-Some wallets use many hidden private keys internally. If you only have a backup of the private keys for your visible OKCash addresses, you might not be able to recover a great part of your funds with your backup.
-Encrypt online backups
+Eine OKCash Wallet ist wie eine Wallet mit Bargeld. Wenn Sie nicht gerne tausend Dollar in Ihrer Tasche haben, sollten Sie vielleicht die gleiche Ansicht für Ihre OKCash Wallet haben. Im Allgemeinen ist es eine gute Praxis, nur kleine Mengen von OK auf Ihrem Computer, Handy oder Server für den täglichen Gebrauch zu halten und den restlichen Teil Ihres Geldes in einer sichereren Umgebung zu halten.
 
-Any backup that is stored online is highly vulnerable to theft. Even a computer that is connected to the Internet is vulnerable to malicious software. As such, encrypting any backup that is exposed to the network is a good security practice.
-Use many secure locations
+Sichern Sie Ihre Wallet
 
-Single points of failure are bad for security. If your backup is not dependent of a single location, it is less likely that any bad event will prevent you to recover your wallet. You might also want to consider using different medias like USB keys, papers and CDs.
-Make regular backups
+An einem sicheren Ort aufbewahrt, kann eine Sicherung Ihrer Wallet Sie vor Computerausfällen und vielen menschlichen Fehlern schützen. Damit können Sie dann auch Ihre Wallet wiederherstellen, nachdem Ihr Handy oder Computer gestohlen wurde, wenn Sie Ihre Wallet verschlüsselt halten.
 
-You need to backup your wallet on a regular basis to make sure that all recent OKCash change addresses and all new OKCash addresses you created are included in your backup. However, all applications will be soon using wallets that only need to be backed up once.
-Encrypt your wallet
+Sichern Sie Ihre gesamte Wallet
 
-Encrypting your wallet or your smartphone allows you to set a password for anyone trying to withdraw any funds. This helps protect against thieves, though it cannot protect against keylogging hardware or software.
-Never forget your password
+Einige Wallets benutzen intern viele versteckte private Schlüssel. Wenn Sie nur eine Sicherung der privaten Schlüssel für Ihre sichtbaren OKCash-Adressen haben, sind Sie vielleicht nicht in der Lage einen großen Teil Ihres Geldes mit Ihrer Sicherung wiederherzustellen.
 
-You should make sure you never forget the password or your funds will be permanently lost. Unlike your bank, there are very limited password recovery options with OKCash. In fact, you should be able to remember your password even after many years without using it. In doubt, you might want to keep a paper copy of your password in a safe place like a vault.
-Use a strong password
+Verschlüsseln Sie Online-Backups
 
-Any password that contains only letters or recognizable words can be considered very weak and easy to break. A strong password must contain letters, numbers, punctuation marks and must be at least 16 characters long. The most secure passwords are those generated by programs designed specifically for that purpose. Strong passwords are usually harder to remember, so you should take care in memorizing it.
-Offline wallet for savings
+Jede Sicherung, die online gespeichert wird, ist sehr anfällig für Diebstahl. Auch ein Computer, der mit dem Internet verbunden ist, ist anfällig für schädliche Software. Als solche ist die Verschlüsselung einer Sicherung, die dem Netzwerk ausgesetzt ist, eine gute Sicherheitspraxis.
 
-An offline wallet, also known as cold storage, provides the highest level of security for savings. It involves storing a wallet in a secured place that is not connected to the network. When done properly, it can offer a very good protection against computer vulnerabilities. Using an offline wallet in conjunction with backups and encryption is also a good practice. Here is an overview of some approaches.
-Keep your software up to date
+Verwenden Sie viele sichere Standorte
 
-Using the latest version of your OKCash software allows you to receive important stability and security fixes. Updates can prevent problems of various severity, include new useful features and help keep your wallet safe. Installing updates for all other software on your computer or mobile is also important to keep your wallet environment safer.
-Think about your testament
+Einmalige Fehler sind für die Sicherheit schlecht. Wenn Ihr Backup nicht von einem einzigen Standort abhängig ist, ist es weniger wahrscheinlich, dass ein schlechtes Ereignis verhindern wird, dass Sie Ihre Wallet wiederherstellen können. Sie sollten auch die Verwendung von verschiedenen Medien wie USB-Sticks, Papiere und CDs in Betracht ziehen.
 
-Your OKCash can be lost forever if you don't have a backup plan for your peers and family. If the location of your wallets or your passwords are not known by anyone when you are gone, there is no hope that your funds will ever be recovered. Taking a bit of time on these matters can make a huge difference.
+Regelmäßige Sicherungen machen
+
+Sie müssen Ihre Wallet regelmäßig sichern, um sicherzustellen, dass alle aktuellen OKCash-Änderungsadressen und alle neuen OKCash-Adressen, die Sie erstellt haben, in Ihrem Backup enthalten sind. Allerdings werden alle Anwendungen bald mit Wallets funktionieren, die nur einmal gesichert werden müssen.
+
+Verschlüsseln Sie Ihre Wallet
+
+Wenn Sie Ihre Wallet oder Ihr Smartphone verschlüsseln, können Sie ein Passwort für jeden einstellen, der versucht, alle Mittel zurückzuziehen. Dies schützt vor Dieben, aber leider nicht vor Keylogging-Hardware oder Software.
+
+Vergessen Sie niemals Ihr Passwort
+
+Sie sollten sicherstellen, dass Sie das Passwort nie vergessen oder Ihr Geld wird dauerhaft verloren sein. Im Gegensatz zu Ihrer Bank gibt es sehr begrenzte Passwortwiederherstellungsoptionen mit OKCash. Sie sollten wirklich in der Lage sein, sich an Ihr Passwort zu erinnern auch nach vielen Jahren ohne es zwischendurch verwendet zu haben. Im Zweifel sollten Sie eine Papierkopie Ihres Passworts an einem sicheren Ort aufbewahren, z.B. in einem Safe.
+
+Verwenden Sie ein starkes Passwort
+
+Jedes Passwort, das nur Buchstaben oder erkennbare Wörter enthält, kann als sehr schwach und leicht zu brechen angesehen werden. Ein starkes Passwort muss Buchstaben, Zahlen, Satzzeichen und muss mindestens 16 Zeichen lang sein. Die sichersten Passwörter sind die von Programmen, die speziell für diesen Zweck entworfen wurden. Starke Passwörter sind in der Regel schwerer zu merken, somit sollten Sie darauf achten, dass Sie sich daran erinnern können.
+
+Offline Wallets für Rücklagen
+
+Eine Offline-Wallet, auch bekannt als Kaltlager, bietet die höchste Sicherheit für Rücklagen. Es handelt sich um die Speicherung einer Wallet an einem sicheren Ort, der nicht mit dem Netzwerk verbunden ist. Wenn es richtig gemacht wird, kann es einen sehr guten Schutz gegen Computer-Schwachstellen bieten. Die Verwendung einer Offline-Wallet in Verbindung mit Backups und Verschlüsselung ist auch eine gute Praxis. Hier ist ein Überblick über einige Ansätze.
+
+Halten Sie Ihre Software auf dem aktuellen Stand
+
+Mit der neuesten Version Ihrer OKCash Software können Sie wichtige Stabilitäts- und Sicherheitsfixes erhalten. Updates können Probleme mit verschiedenem Schweregrad verhindern, neue nützliche Funktionen enthalten und helfen, Ihre Wallet sicher zu halten. Installieren von Updates für alle anderen Software Komponenten auf Ihrem Computer oder Handy ist auch wichtig, um Ihre Wallet-Umgebung sicherer zu halten.
+
+Denken Sie an Ihr Testament
+
+Ihre OKCash können für immer verloren gehen, wenn Sie keinen Backup-Plan für Ihre Freunde und Familie haben. Wenn die Lage Ihrer Wallet oder Ihre Passwörter von niemandem bekannt sind, wenn Sie weg sind, gibt es keine Hoffnung mehr, dass Ihre Gelder jemals wiederhergestellt werden können. Ein bisschen Zeit in diese Dinge zu investieren kann einen großen Unterschied machen.
+
+
 
 ******b8
 
