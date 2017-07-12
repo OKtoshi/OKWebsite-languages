@@ -161,7 +161,7 @@ Viele Organisationen sind verpflichtet, Buchhaltungsunterlagen über ihre Tätig
 
 ******b3
 
-Entwickler
+Für Entwickler
 
 OKCash für Entwickler
  
@@ -219,49 +219,67 @@ Finden Sie Händler
 
 Wie kann OKCash akzeptiert werden
 
- 
-1. Inform yourself
 
-OKCash does not require merchants to change their habits. However, OKCash is different than what you know and use every day. Before you start using OKCash, there are a few things that you need to know in order to use it securely and avoid common pitfalls.
-Read more
+1. Informieren Sie sich
 
-2. Processing payments
+OKCash verlangt von keinem Händler, seine Abläufe zu ändern. Allerdings ist OKCash anders als das, was Sie wissen und jeden Tag verwenden. Bevor Sie mit OKCash anfangen, gibt es ein paar Dinge, die Sie wissen müssen, um es sicher zu benutzen und gängige Fallstricke zu vermeiden.
+Weiterlesen
 
-You can process payments and invoices by yourself or you can use merchant services and deposit money in your local currency or OKCash. Most point of sales businesses use a tablet or a mobile phone to let customers pay with their mobile phones.
-Find merchant services
+2. Zahlungen verarbeiten
+
+Sie können Zahlungen und Rechnungen selbst verarbeiten oder Händlerdienste verwenden und dann Ihr Geld in Ihrer Hauswährung oder OKCash halten. Die meisten Unternehmen verwenden als Verkaufstelle ein Tablet oder ein Mobiltelefon, damit Kunden mit ihren Handys bezahlen können.
+Finden Sie Handelsdienstleistungen
 	  	
-3. Accounting and taxes
+3. Buchhaltung und Steuern
 
-Merchants often deposit and display prices in their local currency. In other cases, OKCash works similarly to a foreign currency. To get appropriate guidance regarding tax compliance for your own jurisdiction, you should contact a qualified accountant in your country.
-4. Gaining visibility
+Händlerpreise werden oft in der Hauswährung hinterlegt und angezeigt. In anderen Fällen funktioniert OKCash ähnlich wie eine Fremdwährung. Um eine angemessene Anleitung zur steuerlichen Einhaltung Ihrer eigenen Rechtsprechung zu erhalten, wenden Sie sich bitte an einen qualifizierten Buchhalter in Ihrem Land.
 
-There is a growing number of users searching for ways to spend their OKCash. You can submit your business in online directories to help them easily find you. You can also display the OKCash logo on your website or your brick and mortar business.
+4. Aufmerksamkeit
 
+Es gibt eine wachsende Zahl von Benutzern, die nach Möglichkeiten suchen, ihre OKCash auszugeben. Sie können Ihr Geschäft in Online-Verzeichnisse eintragen lassen, um ihnen zu helfen, Sie leichter zu finden. Sie können auch das OKCash-Logo auf Ihrer Website oder Ihrem Ziegel- und Mörtelgeschäft zeigen.
 
 *****b5
 
- How it works
-OK basics for new users
+So geht's
+OK Grundlagen für neue Benutzer
 
-As a new user, you can get started with OKCash without understanding the technical details. Once you have installed an OKCash wallet on your computer, mobile phone or IoT device, it will generate your first OK address and you can create more addresses whenever you need. You can disclose your addresses to your friends or costumers so that they can pay you or vice versa. This is pretty similar to how email works, except that OKCash addresses should only be used once.
+Als neuer Benutzer können Sie mit OKCash beginnen, ohne die technischen Details zu verstehen. Sobald Sie eine OKCash-Wallet auf Ihrem Computer, Mobiltelefon oder IoT-Gerät installiert haben, wird es Ihre erste OK-Adresse generieren und Sie können mehr Adressen erstellen, wann immer Sie diese benötigen. Sie können Ihre Adressen an Ihre Freunde oder Kunden weitergeben, damit sie Sie bezahlen können und umgekehrt. Dies funktioniert ziemlich ähnlich wie E-Mail versenden, außer dass OKCash-Adressen nur einmal verwendet werden sollten.
 
-Balances - OK block chain
+Bilanzen - OK Block Chain / Blockkette
 
-The OK block chain is a shared public ledger on which the entire OKCash network relies. All confirmed transactions are included in the OK block chain. This way, OKCash wallets can calculate their spendable balance and the new transactions can be verified to be spending OK coins that are actually owned by the spender. The integrity and the chronological order of the block chain are enforced with cryptography.
+Die OK Block Chain ist ein gemeinsames öffentliches Hauptbuch, wie in der Buchhaltung, auf dem sich das gesamte OKCash-Netzwerk stützt. Alle bestätigten Transaktionen sind in der OK-Blockkette enthalten. Auf diese Weise können OKCash-Wallets ihre verbringbare Bilanz berechnen und die neuen Transaktionen können überprüft werden, um nur OK Cash auszugeben, die tatsächlich im Besitz der Geber sind. Die Integrität und die chronologische Reihenfolge der Blockkette werden mittels Kryptographie durchgesetzt.
 
-Transactions - private keys
+Transaktionen - private Schlüssel
 
-A transaction is a transfer of value between OKCash wallets that gets included in the OK block chain. OKCash wallets keep a secret piece of data called a private key or seed, which is used to sign transactions, providing a mathematical proof that they have come from the owner of the wallet. The signature also prevents the transaction from being altered by anybody once it has been issued. All transactions are broadcasted between users and usually begin to be confirmed by the network in the following 10 seconds, through a process called staking.
+Eine Transaktion ist eine Wertübertragung zwischen OKCash-Wallets, die in der OK-Blockkette enthalten ist. OKCash Wallets halten ein geheimes Stück von Daten, die als privater Schlüssel oder Seed (Verschlüsselungswert) bezeichnet werden, die verwendet werden, um Transaktionen zu unterzeichnen, die einen mathematischen Beweis liefern, dass sie vom Besitzer der Wallet gekommen sind. Die Unterschrift verhindert auch, dass die Transaktion von jedem geändert wird, sobald er ausgegeben wurde. Alle Transaktionen werden zwischen den Benutzern ausgestrahlt und beginnen in der Regel durch das Netzwerk in den folgenden 10 Sekunden durch einen Prozess namens Staking zu bestätigen.
 
-Processing - staking
+Verarbeitung - Staking
 
-Staking is a distributed consensus system that is used to confirm waiting transactions by including them in the OK block chain. It enforces a chronological order in the OK block chain, protects the neutrality of the network, and allows different computers to agree on the state of the system. To be confirmed, transactions must be packed in a block that fits very strict cryptography rules that will be verified by the network. These rules prevent previous blocks from being modified because doing so would invalidate all following blocks. Staking also creates the equivalent of a competitive lottery that prevents any individual from easily adding new blocks consecutively in the OK block chain. This way, no individuals can control what is included in the OK block chain or replace parts of the OK block chain to roll back their own spends.
+Staking ist ein verteiltes Konsensus-System, das verwendet wird, um wartende Transaktionen zu bestätigen, indem sie die Transaktionen in die OK-Blockkette aufnehmen. Es erzwingt eine chronologische Reihenfolge in der OK-Blockkette, schützt die Neutralität des Netzwerks und ermöglicht es verschiedenen Computern, sich auf den Zustand des Systems zu einigen. Um zu bestätigen, müssen Transaktionen in einem Block gepackt werden, der sehr strenge Kryptographie-Regeln passt, die vom Netzwerk überprüft werden. Diese Regeln verhindern, dass vorherige Blöcke geändert werden, weil dadurch alle folgenden Blöcke ungültig werden. Staking schafft auch das Äquivalent einer wettbewerbsfähigen Lotterie, die jede Person daran hindert, einfach neue Blöcke nacheinander in der OK-Blockkette hinzuzufügen. Auf diese Weise können keine Einzelpersonen kontrollieren, was in der OK-Blockkette enthalten ist, oder Teile der OK-Blockkette ersetzen, um ihre eigenen Ausgaben zurückzuholen.
 
 
 ******b6
 
 
-Some things you need to know
+Einige Dinge, die Sie wissen müssen
+
+Wenn Sie im Begriff sind, OKCash zu erforschen, gibt es ein paar Dinge, die Sie wissen sollten. OKCash lässt Sie Geld auf andere Weise austauschen als bei den üblichen Banken. Als solches sollten Sie sich Zeit nehmen, um sich zu informieren, bevor Sie OKCash für eine ernsthafte Transaktion verwenden. OKCash sollte mit der gleichen Pflege wie Ihre reguläre Brieftasche behandelt werden, oder besser in einigen Fällen.
+
+Sichern Sie Ihre Wallet
+
+Wie im wirklichen Leben muss Ihre Wallet gesichert werden. OKCash macht es möglich, den Wert überall auf eine sehr einfache Art und Weise zu übertragen und es Ihnen erlaubt, die Kontrolle über Ihr Geld zu haben. Solche großartigen Features kommen auch mit großen Sicherheitsbedenken. Gleichzeitig kann OKCash ein sehr hohes Maß an Sicherheit bieten, wenn es richtig verwendet wird. Denken Sie aber immer daran, dass es Ihre Verantwortung ist, bewährte Praktiken einzusetzen, um Ihr Geld zu schützen. Lesen Sie mehr über die Sicherung Ihrer Wallet.
+
+OKCash Preis ist flüchtig
+
+Der Preis eines OKCash kann aufgrund seiner jungen Wirtschaft, neuartigen Natur und manchmal illiquiden Märkten unvorhersehbar über einen kurzen Zeitraum hinweg zu oder abnehmen. Folglich wird das Anlegen/Sparen Ihres Geldes bei OKCash an dieser Stelle nicht empfohlen. OKCash sollte wie eine Risikoanlage mit hohem Risiko gesehen werden, und Sie sollten kein Geld anlegen, das Sie sich nicht leisten können, mit OKCash zu verlieren. Wenn Sie mit OKCash Zahlungen erhalten, können viele Dienstleister sie in Ihre Landeswährung umwandeln.
+
+OKCash-Zahlungen sind irreversibel
+
+Jede Transaktion, die mit OKCash gemacht wird, kann nicht rückgängig gemacht werden, sie können nur von der Person zurückerstattet werden, die die Mittel erhält. Das heißt, Sie sollten darauf achten, Geschäfte mit Menschen und Organisationen zu machen, die Sie kennen und vertrauen, oder die einen guten Ruf haben. Für ihren Teil müssen Unternehmen die Kontrolle über die Zahlungswünsche behalten, die sie ihren Kunden anzeigen. OKCash kann Tippfehler erkennen und wird in der Regel nicht zulassen, dass Sie Geld zu einer ungültigen Adresse versehentlich senden. Zusätzliche Dienste könnten in Zukunft bestehen, um mehr Auswahl und Schutz für den Verbraucher zu bieten.
+OKCash ist nicht anonym
+
+Manche Anstrengungen sind erforderlich, um Ihre Privatsphäre mit OK zu schützen. Alle OK-Transaktionen werden öffentlich und dauerhaft im Netzwerk gespeichert, was bedeutet, dass jeder die Balance und Transaktionen jeder OK-Adresse sehen kann. Die Identität des Benutzers hinter einer Adresse bleibt unbekannt, bis Informationen während eines Kaufs oder unter anderen Umständen offen gelegt werden. Dies ist ein Grund, warum OK-Adressen nur einmal verwendet werden sollten. Denken Sie immer daran, dass es Ihre Verantwortung ist, bewährte Praktiken anzunehmen, um Ihre Privatsphäre zu schützen. Lesen Sie mehr zum Schutz Ihrer Privatsphäre.
+Unbestätigte Transaktionen sind nicht sicher
 
 If you are about to explore OKCash, there are a few things you should know. OKCash lets you exchange money in a different way than with usual banks. As such, you should take time to inform yourself before using OKCash for any serious transaction. OKCash should be treated with the same care as your regular wallet, or even more in some cases.
 Securing your wallet
