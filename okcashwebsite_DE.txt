@@ -362,30 +362,30 @@ Ihre OKCash können für immer verloren gehen, wenn Sie keinen Backup-Plan für 
 
 ******b8
 
-Resources
+Ressourcen
 
-Useful places
+Nützliche Orte
 
 OKCash BtcTalk Original Ann
 
-OKCash Wiki (soon)
+OKCash Wiki (bald)
 
 Bitcoin & OKCash Explorer Rocks
 
 Bitcoin & OKCash Community Events
-Directories and Merchants
+Verzeichnisse und Händler
 
 Wallets - okcash.co
 
-Merchants - cointopay.com
+Händler - cointopay.com
 
-Merchants - cryptopia.co.nz
+Händler - cryptopia.co.nz
 
-Web hosting services - cryptocloudhosting.org
+Web Hosting Services - cryptocloudhosting.org
 
-Merchant tools - (under construction)
+Händler Tools - (im Bau)
 
-Non-profits - (under construction)
+Non-profits - (im Bau)
 News
 
 LetsTalkPayments CES2016
@@ -413,12 +413,12 @@ Explorer.rocks
 Cryptopia.co.nz
 
 Multifaucet.tk
-Payments Processors
+Zahlungsprovider
 
 Cripto-Pay.com
 
 CoinToPay.com
-Exchanges
+Handelsplattformen
 
 Bittrex.com
 
@@ -433,14 +433,14 @@ OK Graphics
 
 OKCash Logo 500px
 
-Promotional Graphics
+Werbegrafik
 
 OK Wallpapers
 	
 Mining / Staking Pools
 
 OKCashpool.info - Multipool
-Charts and statistics
+Charts und Statistiken
 
 CoinGecko.com
 
@@ -461,18 +461,18 @@ CryptoCoinCharts.info
 ExchangeWar.info
 
 Saldigi.info
-Films
+Filme
 
 OKCash Videos
 Learning resources
 
-(under construction) 
+(im Bau) 
 
 ******b9
 
 Community
  
-Forums
+Foren
 
 BitcoinTalk Forum
 
@@ -503,13 +503,13 @@ IRC Channels on freenode.
 
 #okcash (General OKCash-related)
 	
-Social networks
+Soziale Netzwerke
 
 Twitter Search
 
 OKCash Twitter Updates
 
-Facebook Page
+Facebook Seite
 
 Google+
 
@@ -534,33 +534,33 @@ OKCashTip at IRC
 
 ******c1
 
-Documentation
+Dokumentation
 
-OK Developer Documentation
+OK Developer Dokumentation
 
-
-OKCash is inspired by, based on and supportive of Bitcoin.
-Find useful resources, guides and reference material for developers.
-(under construction)
-
+OKCash basiert auf und wird von Bitcoin inspiriert und unterstützt.
+Finden Sie nützliche Ressourcen, Leitfäden und Referenzmaterial für Entwickler.
+(im Bau)
  
 
 Guide
 	
 
-Reference
+Referenzen
 	
 
-Examples
+Beispiele
 	
 
-Glossary 
+Glossar
 
 ******c2
 
 Innovation
 
-The Future of Social Payments
+Die Zukunft von Zahlungen über soziale Netzwerke
+
+Das OKCash-Protokoll ist nicht nur das Senden von Geld von A nach B. Es hat eine starke und ständig wachsende soziale Präsenz, ein universeller Name und es hat viele Features wie den verschlüsselten Anon Nachrichten Chat, optionale anonyme Token und öffnet viele Möglichkeiten, dass die Community noch ist Erforschen Hier sind einige der derzeit erforschten Technologien und in einigen Fällen zu echten Produkten und Dienstleistungen geworden. Die interessantesten Verwendungen von OKCash sind wohl noch zu entdecken.
 
 The OKCash protocol is not just about sending money from A to B. It has a strong and constantly growing social presence, an Universal name and It has many features like Encrypted Anon Messages Chat, Optional Anonymous tokens and opens many possibilities that the community is still exploring. Here are some of the technologies currently being researched and in some cases, turned into real products and services. The most interesting uses of OKCash are probably still to be discovered.
 
