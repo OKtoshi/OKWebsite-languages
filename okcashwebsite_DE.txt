@@ -593,37 +593,40 @@ Automatisierte Lösungen, IoT, ROKOS
 
 Automatisierte Dienstleistungen müssen in der Regel mit Kosten und Beschränkungen von Bargeld oder Kreditkartenzahlungen umgehen. Dazu gehören alle Arten von Automaten, von Bustickets bis zu Kaffeemaschinen. OKCash eignet sich für den Einsatz in einer neuen Generation von automatisierten Diensten sowie zur Senkung der Betriebskosten. Stellen Sie sich selbstfahrende Taxis vor, oder ein Geschäft, in dem Ihr Einkaufskorb Ihnen ermöglicht, Ihre Einkäufe zu bezahlen, ohne in der Schlange zu stehen. Viele Ideen sind möglich. OKCash hat eine Freigabe für den kommenden IoT-Technologie-Code namens ROKOS für Raspberry Pi-Geräte, welches Software für die Top-Kryptpwährungen enthält und kostenlos für jeden verfügbar ist, damit die IoT-/Crypto-Bewegung sich bestens weiterentwickeln kann.
 
-Trust and integrity
+Vertrauen und Integrität
 
-OKCash offers solutions to many of the trust problems that plague banks. With selective accounting transparency, digital contracts, and irreversible transactions, OKCash can be used as a ground to restore trust and agreement. Crooked banks cannot cheat the system to make a profit at the expense of other banks or the public. A future in which major banks would support OKCash could help to reinstate integrity and trust in financial institutions.
+OKCash bietet Lösungen für viele der Vertrauensprobleme, die Banken plagen. Mit selektiver Buchhaltungstransparenz, digitalen Verträgen und irreversiblen Transaktionen kann OKCash als Grund zur Wiederherstellung von Vertrauen und Vereinbarung genutzt werden. Unehrliche Banken können das System nicht betrügen, um auf Kosten anderer Banken oder der Öffentlichkeit einen Gewinn zu erzielen. Eine Zukunft, in der Großbanken OKCash unterstützen würden, könnte dazu beitragen, Integrität und Vertrauen in Finanzinstitute wiederherzustellen.
 
-Resilience and decentralization
+Resilienz und Dezentralisierung
 
-By its high decentralization, OKCash created a different form of payment network with an increased level of resilience and redundancy. OKCash can handle millions of dollars in trades without requiring military protection. With no central point of failure such as a data center, attacking the network is a more difficult project. OKCash could represent an interesting step forward in securing local and global financial systems.
+Durch seine hohe Dezentralisierung hat OKCash eine andere Form des Zahlungsnetzes mit einer erhöhten Resilienz und Redundanz geschaffen. OKCash kann Millionen von Dollars im Handel verkraften, ohne militärischen Schutz zu benötigen. Ohne einen zentralen Ausfallpunkt wie ein Rechenzentrum ist ein Angriff auf das Netzwerk ein schwierigeres Projekt. OKCash könnte einen interessanten Schritt zur Sicherung lokaler und globaler Finanzsysteme darstellen.
 
-Private Messages
+Private Nachrichten
 
-An Encrypted Messages Chat system comes integrated within the OKCash Core wallet, giving the users the possibility to establish secure and even anonymous communications, protecting the users privacy and empowering them with a social and secure worldwide communication system.
+Ein verschlüsseltes Nachrichten-Chat-System wird in die OKCash-Core-Wallet integriert und gibt den Benutzern die Möglichkeit, sichere und sogar anonyme Kommunikation zu etablieren, die Privatsphäre der Benutzer zu schützen und sie mit einem sozialen und sicheren weltweiten Kommunikationssystem zu befähigen.
 
 Proof of Stake
-Saving-Sharing economy
+Saving-Sharing Wirtschaflichkeit
 
-OKCash is been continuously created by the Nodes that secure the network, meaning the users that keep their wallets opens gain a % Reward on the coins they stake, making OKCash a perfect system for a sharing economy, where the users that support and secure the network gains the rewards that can then be redistributed in the network.
-Multi-signature accounts
+OKCash wurde kontinuierlich von den Nodes erstellt, die das Netzwerk sichern, was bedeutet, dass die Benutzer, die ihre Wallet behalten, einen %-Gewinn an den OkCash erhalten, die sie in ihrer Wallet halten, und macht OKCash zu einem perfekten System für eine gemeinsame Wirtschaft, in der die Benutzer das Netzwerk unterstützen und die Staking-Belohnungen sichern, die dann im Netzwerk neu verteilt werden.
 
-Multiple signatures allow a transaction to be accepted by the network only if a certain number of a defined group of persons agree to sign the transaction. This could be used by a board of directors to prevent any member to spend parts of their treasury without other members' consent. This can also be used by banks to prevent theft by blocking payments above a threshold if the user does not provide additional credentials.
-Dispute mediation
+Multi-Signatur-Konten
 
-OKCash can be used to develop innovative dispute mediation services using multiple signatures. Such services could make it possible for a third party to approve or reject a transaction in case of disagreement between the other parties without having control on their money. Since these services would be compatible with any user and merchant using OKCash, this would likely lead to free competition and higher quality standards.
+Mehrere Signaturen erlauben es, dass eine Transaktion nur vom Netz akzeptiert wird, wenn eine bestimmte Anzahl einer definierten Gruppe von Personen die Transaktion unterschreibt. Dies könnte von einem Vorstand genutzt werden, um zu verhindern, dass ein Mitglied Teile des Schatzamtes ohne Zustimmung der anderen Mitglieder ausgibt. Dies kann auch von Banken verwendet werden, um Diebstahl zu verhindern, indem sie Zahlungen über einen Schwellenwert sperrt, wenn der Benutzer keine zusätzlichen Anmeldeinformationen zur Verfügung stellt.
+
+Streitvermittlung
+
+OKCash kann verwendet werden, um innovative Streitvermittlungsdienste mit mehreren Signaturen zu entwickeln. Solche Dienste könnten es einem Dritten ermöglichen, eine Transaktion im Falle von Meinungsverschiedenheiten zwischen den anderen Parteien ohne Kontrolle über ihr Geld zu genehmigen oder abzulehnen. Da diese Dienste mit jedem Benutzer und Händler mit OKCash kompatibel wären, würde dies wahrscheinlich zu freiem Wettbewerb und höheren Qualitätsstandards führen.
 
 ******c3
 
-Frequently Asked Questions
+Häufig gestellte Fragen - FAQ
  
-If I understand correctly, you have to leave this wallet open on your computer to stake (earn). What exactly is it connected to, and do these connections make it/me more susceptible to being hacked or the contents of my wallet compromised? Is that why I should encrypt my wallet?
-First assumption is correct, OKCash is a Proof of Stake cryptocurrency which is more sustainable long term, more fair with the coin holders and way more Eco-friendly than Proof of work.
+Wenn ich es richtig verstehe, musst du die OKCash Wallet auf deinem Computer laufen lassen um zu staken. Mit was genau ist es verbunden, und machen diese Verbindungen mich anfälliger gegen Hacker oder kann der Inhalt meiner Wallet kompromittiert werden? Sollte ich deswegen meine Wallet verschlüsseln?
 
--To stake: You need to have coins in your wallet and leave it running, this wallet is a "node" in the network, The OKCash network is created by a lot of this nodes scattered around the world, anywhere where people download and start staking their coins, That is why it is Decentralized and free from middle men, as the users are the real power behind the network, so this nodes connect to each other and there is no Central authority or single points of failure like with masternodes or other way of distribution.  After leaving your wallet open, around 24 hrs later you should start getting your first stakes (coins) and this coins get mature and ready for use after 69 confirmations in the network which you can check in the wallet under the transactions tab.
+Die erste Annahme ist richtig, OKCash ist eine Proof-of-Stake Kryptowährung, die nachhaltiger, langfristig ist und fairer für den OKCash Inhabern ist und daher viel umweltfreundlicher als Proof-of-Work (Mining).
+
+-Zum Staking: Sie müssen OKCash in Ihrer Wallet haben und diese lassen Sie dann laufen, somit ist diese Wallet ein "Knoten" im Netzwerk. Das OKCash-Netzwerk wird von einer Menge dieser auf der ganzen Welt verstreuten Knoten erzeugt, überall dort, wo Menschen die Wallet herunterladen und anfangen ihre OKCash zu staken. Deshalb ist es dezentral und frei von Zwischenhändlern, da die Benutzer die wirkliche Macht hinter dem Netzwerk sind, in dem diese Knoten miteinander verbunden sind und es keine zentrale Autorität oder einzelne Ausfallpunkte wie bei Masternodes oder anderen Arten der Verteilung gibt. Nachdem Sie Ihre Wallet laufen gelassen haben, sollte Sie etwa 24 Stunden später Ihre ersten Belohnungen bekommen und diese OKCash werden nach 69 Bestätigungen vom Netzwerk, die Sie in der Wallet unter der Registerkarte Transaktionen prüfen kannst, reif und gebrauchsfertig.
 
 -Security: The connections to the wallet are normal as they are other nodes connecting to yours and vice versa, your wallet automatically blocks unofficial or malicious nodes it detects, even so you could download and use malawarebytes to increase the security as it blocks malicious ip addresses extending even more the security of your connections, to have maximum security you should always download official clients and only from official sources.
 
