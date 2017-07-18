@@ -677,34 +677,18 @@ In einfacher Hinsicht könnte man Ihr Gewicht als "Alter und Qualität" der OKCa
 Aus technischer Sicht:
 
 Das Gewicht jeder Adresse beginnt bei 0.
-Wenn eine Adresse eine Signatur liefert, erhöht sich ihr Gewicht nach mehreren Signaturen,
-Das gewicht nähert sich der zahl der münzen in der adresse ab dem letzten signaturblock:
+Wenn eine Adresse eine Bestätigung liefert, erhöht sich ihr Gewicht nach mehreren Bestätigungen,
+Das gewicht nähert sich der Zahl der OKCash in der Adresse ab dem letzten Bestätigungsblock:
 
-Neues Gewicht = 0,9 * Altgewicht + 0,1 * Balance
+Neues Gewicht = 0,9 * Altgewicht + 0,1 * Guthaben
 
-Wenn eine Signatur nicht von der Adresse in einem Signaturblock bereitgestellt wird, nimmt sein Gewicht ab:
+Wenn eine Bestätigung nicht von der Adresse in einem Bestätigungsblock bereitgestellt wird, nimmt sein Gewicht ab:
 
 Neues Gewicht = 0,9 * Altgewicht
 
-Auf diese Weise, Adressen, deren Besitzer nicht an der Unterzeichnung teilnehmen wollen, behindern nicht die Fähigkeit, eine Mehrheit zu erreichen.
+Auf diese Weise wird verhindert, dass Adressen und deren Besitzer, nicht an den Bestätigungen teilnehmen wollen, die Mehrheit erreichen.
 
-Wenn eine Adresse zwei gegensätzliche Blöcke unterschreibt, wird ihr Gewicht auf 0 zurückgesetzt. Dies ist, um die Macht der bösartigen Stakeholder zu begrenzen.
-
-In more technical terms:
-
-The weight of every address starts at 0.
-When an address provides a signature, its weight increases so that after several signatures,
-the weight approaches the number of coins in the address as of the last signature block:
-
-New weight = 0.9 * Old weight + 0.1 * Balance
-
-If a signature is not provided by the address in a signature block, its weight decreases:
-
-New weight = 0.9 * Old weight
-
-This way, addresses whose owners do not wish to participate in signing do not hamper the ability to reach a majority.
-
-If an address signs two conflicting blocks, its weight is reset to 0. This is to limit the power of malicious stakeholders.
+Wenn eine Adresse zwei gegensätzliche Blöcke besätigt, wird ihr Gewicht auf 0 zurückgesetzt. Dies dient dazu die Macht der bösartigen Stakeholder zu begrenzen.
 
 ******c4
 
@@ -722,10 +706,10 @@ Deutsch
 
 Haftungsausschluss / Disclaimer
 
-OKCash is only intended for legal purposes and should not be used in any other way. Neither OKCash, nor any of it is developers or contributors, support any illegal activities and won’t assist them in any way.
+OKCash ist nur für legale Zwecke bestimmt und darf nicht anders verwendet werden. Weder OKCash noch irgendwelche Entwickler oder Mitwirkende davon unterstützen illegale Aktivitäten und werden ihnen in keiner Weise helfen.
 
-As far as we know, the use of OKCash is not illegal in most jurisdictions. However, some jurisdictions may impose limitations on the use of cryptocurrencies and/or privacy protection tools, so users in those jurisdictions should consider this before using OKCash. If in doubt, please contact a local attorney to avoid doing anything that could be considered illegal in your jurisdiction.
+Soweit wir wissen, ist die Verwendung von OKCash in den meisten Rechtsordnungen nicht illegal. Allerdings können einige Staaten Einschränkungen für die Verwendung von Kryptowährungen und/oder Datenschutz-Tools erhoben, so dass Benutzer in diesen Ländern dies vor der Verwendung von OKCash prüfen sollten. Im Zweifelsfall wenden Sie sich bitte an einen örtlichen Anwalt, um etwas zu vermeiden, das in Ihrem Staat als illegal angesehen werden könnte.
 
-The content of this website, or others associated with OKCash, does not constitute legal advice. If you have legal doubts or need assistance, please contact an attorney in your jurisdiction.
+Der Inhalt dieser Website oder andere, die mit OKCash verbunden sind, stellt keine Rechtsberatung dar. Wenn Sie rechtliche Zweifel haben oder Hilfe benötigen, wenden Sie sich bitte an einen Rechtsanwalt in Ihrem Staat.
 
-The content of this website or others associated with OKCash is not investment advice. You should use your own judgement and research multiple information sources before investing in OKCash.
+Der Inhalt dieser Website oder andere mit OKCash verbundene Seiten sind keine Anlageberatung. Sie sollten Ihr eigenes Urteil verwenden und mehrere Informationsquellen erforschen, bevor Sie in OKCash investieren.
