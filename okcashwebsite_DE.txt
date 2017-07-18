@@ -628,46 +628,67 @@ Die erste Annahme ist richtig, OKCash ist eine Proof-of-Stake Kryptowährung, di
 
 -Zum Staking: Sie müssen OKCash in Ihrer Wallet haben und diese lassen Sie dann laufen, somit ist diese Wallet ein "Knoten" im Netzwerk. Das OKCash-Netzwerk wird von einer Menge dieser auf der ganzen Welt verstreuten Knoten erzeugt, überall dort, wo Menschen die Wallet herunterladen und anfangen ihre OKCash zu staken. Deshalb ist es dezentral und frei von Zwischenhändlern, da die Benutzer die wirkliche Macht hinter dem Netzwerk sind, in dem diese Knoten miteinander verbunden sind und es keine zentrale Autorität oder einzelne Ausfallpunkte wie bei Masternodes oder anderen Arten der Verteilung gibt. Nachdem Sie Ihre Wallet laufen gelassen haben, sollte Sie etwa 24 Stunden später Ihre ersten Belohnungen bekommen und diese OKCash werden nach 69 Bestätigungen vom Netzwerk, die Sie in der Wallet unter der Registerkarte Transaktionen prüfen kannst, reif und gebrauchsfertig.
 
--Security: The connections to the wallet are normal as they are other nodes connecting to yours and vice versa, your wallet automatically blocks unofficial or malicious nodes it detects, even so you could download and use malawarebytes to increase the security as it blocks malicious ip addresses extending even more the security of your connections, to have maximum security you should always download official clients and only from official sources.
+-Sicherheit: Die Verbindungen zur Wallet sind unbedenklich, da sie andere Knoten sind, die mit Ihrem verbunden sind und umgekehrt. Ihre Wallet blockiert automatisch inoffizielle oder bösartige Knoten, die sie erkennt. Zusätzlich können Sie Malawarebytes herunterladen und benutzen, um die Sicherheit zu erhöhen, da sie bösartiges IP blockiert Adressen und die Sicherheit Ihrer Verbindungen noch weiter erhöht. Um maximale Sicherheit zu haben, sollten Sie immer offizielle Software und nur aus offiziellen Quellen herunterladen.
 
--Wallet encryption: You should encrypt your wallet so in case anyone else gets access to your computer (Via physical or internet access) they can not use or spend your coins as they would require the password to send any transaction as well, and the information inside its encrypted.
+-Wallet-Verschlüsselung: Sie sollten Ihre Wallet verschlüsseln, falls jemand sonst Zugang zu Ihrem Computer erhält (über physikalischen oder Internet-Zugang) können diese Ihre OKCash nicht benutzen oder versenden, da sie das Passwort benötigen, um auch eine Transaktion zu vollziehen und darüber hinaus sind alle Wallet-Informationen innerhalb auch verschlüsselt.
 
-To Stake you can unlock only the staking process by selecting the small box "stake only" when unlocking your wallet, that way will still require your password to send coins out of your wallet but it will be able to do the stake process. (A fully encrypted and locked wallet does not stake)
+Wenn Ihre Wallet gesperrt ist, können Sie nur staken, wenn Sie die kleine Box mit "stake only" auswählen, damit Sie staken aber Ihr Passwort noch für eine Transaktion erforderlich ist. Ihre Wallet kann staken auch wenn Sie gesperrt ist. (Eine vollständig verschlüsselte und verschlossene Wallet nimmt nicht am Staking teil)
+
 
 -
 
-If I want to back up the wallet, it prompts me to save a .dat file. I'm assuming that's in case my computer goes belly up and I lose my hard drive. How would I restore and point the new wallet install to that old .dat file if that happens?
-More properly speaking that wallet.dat file is your real personal wallet (the program people normally call a wallet is in fact a Client or Daemon if is used under its graphical or command line interface).  So your real "Wallet" and the file you should always keep secure backups of it is that .dat file.
+Wenn ich die Wallet sichern möchte, fordert sie mich auf, eine .dat-Datei zu speichern. Ich nehme an, das ist für den FAll, dass mein Computer kaputt geht und ich damit meine Festplatte verliere. Wie würde ich die neue Wallet-Installation mit dieser alten .dat-Datei wiederherstellen, wenn das passiert?
 
--Wallet.dat: This file contains your private keys, in easier terms  it holds your addresses and all the coins in them, that is why only you can use those coins, because only you have this private keys, if someone else get access to the private keys they could spend the coins, hence why encryption and security is important, and having a backup of it on a secure usb device just in case of anything happens to that computer.
+Genauer gesagt, die wallet.dat Datei ist Ihre echte persönliche Wallet (Menschen nennen das Programm normalerweise eine Wallet, ist in der Tat jedoch ein Client oder Daemon, wenn unter seiner grafischen oder Kommandozeilen-Schnittstelle verwendet wird). Also Ihre echte "Wallet", diese Datei, davon sollten Sie immer sichere Sicherungen haben, die .dat-Datei.
 
-To restore a wallet you just need to place the wallet.dat file into the Data folder, For example:
+-Wallet.dat: Diese Datei enthält Ihre privaten Schlüssel, in einfacheren Begriffen hält es Ihre Adressen und alle OKcash in ihnen, das ist der Grund, warum nur Sie diese OKCash verwenden können, denn nur Sie haben diese privaten Schlüssel, wenn jemand anderes Zugang zu den privaten Schlüsseln bekommt, können diese die OKCash ausgeben. Das zeigt warum Verschlüsselung und Sicherheit wichtig ist, und eine Sicherung davon auf einem sicheren USB-Gerät nur falls irgendetwas passiert, wenn Ihrem Computer etwas zustößt.
 
-On Windows you can find that folder at: %appdata%/roaming/okcash and then just start the Qt client and let it Sync.
+Um eine Wallet wiederherzustellen, müssen Sie die wallet.dat-Datei in den Data-Ordner legen, zB:
 
--
-
-How long does it take for coins to be considered "mature" and start earning?
-The coins are able to start getting stake (earning) after the first 8 hours in your open wallet, depending on the people staking in the network you could start earning your first stakes after 24 hrs or more before you start watching a constant influx as they are gaining weight in the network.
-
--Maturity: a coin is mature when you are able to use it, on OKCash your coins mature after 69 confirmations.
+Unter Windows finden Sie diesen Ordner unter: %appdata%/roaming/okcash und anschließend starten Sie dann einfach den Qt-Client und lassen ihn synchronisieren.
 
 -
 
+Wie lange dauert es, bis OKCash als "reif" betrachtet werden und anfangen selbst zu staken?
 
-Speaking of backing up the wallet, should you only back it up and keep the latest copy, or can you back it up again and again at different points in time? I guess I'm wondering if it's like a snapshot or not.
-This works a bit different from that perception we have of files.
+Die OKCash sind in der Lage, nach den ersten 8 Stunden in Ihrer offenen Wallet zu staken, je nachdem, wie die Leute im Netzwerk staken, könnten Sie nach 24 Stunden oder mehr, bevor Sie einen konstanten Zustrom bekommen, Ihre ersten Belohnungen im Netzwerk verdienen.
 
-As we just saw, our wallet stores private keys (addresses) and we have to remember that there is a blockchain (where all the transactions are stored), the blockchain is stored across all the OKCash network nodes hence is decentralized and always available.
-
-So. If you create a backup of your wallet when it has only 3 addresses, you could consider that backup valid and all your coins safe no matter when on time, as long as you dont create another address, as that backup only has 3 saved, so if you create more addresses then you would require to make a new backup, so you really have a full backup of all of your private keys (addresses).
-
-As the Blockchain or in this case OKChain stores the transactions, as long as you have your private keys, the coins in those addresses are safe. So if you lose your hard drive with 600 coins in it, as long as your backup holds the private key for that address, you will have the full balance, no matter if someone send you more coins to that address and you had the computer off, you would still have the 600 coins and the new ones people send you as the transactions  are stored on the Chain so are never lost, and as you hold the keys for your address, then only you can access them.
+-Maturität: Ein OKCash ist reif, wenn man sie benutzen kann, Ihre OKCash sind nach 69 Bestätigungen reif.
 
 -
 
-What is your weight and network weight in the wallet mean? Does it affect how long it takes to get rewarded via staking? I've seen it say anywhere from 200 days to over a thousand days to earn reward. Just curious.
-In easy terms, You could think in your weight as "age and quality" of the coins in your wallet for stake.
+
+Wenn man jetzt von der gesicherten Wallet ausgeht, sollte man die Wallet sichern und immer nur die neueste Sicherung aufheben oder kann man sie immer wieder zu verschiedenen Zeitpunkten sichern. Ich denke, ich frage mich ob das Sichern wie ein Snapshot funktioniert.
+
+Das funktioniert ein bisschen anders als diese Wahrnehmung, die wir von Dateien haben.
+
+Wie wir gerade gesehen haben, speichert unsere Wallet private Schlüssel (Adressen) und wir müssen uns daran erinnern, dass es eine Blockchain gibt (in der alle Transaktionen gespeichert sind), die Blockchain ist über alle OKCash Netzwerkknoten gespeichert und somit dezentral und immer verfügbar.
+
+Wenn Sie nun ein Backup Ihrer Wallet machen, wenn sie nur 3 Adressen enthält, könnte das Backup gültig und alle Ihre OKCash sicher sein, egal zu welchem Zeitpunkt, solange Sie keine andere Adresse erstellen, da das Backup nur noch 3 gespeichert hat. Wenn Sie mehr Adressen erzeugen, dann müssen Sie eine neue Sicherung machen, dass Sie wirklich eine volle Sicherung aller Ihrer privaten Schlüssel (Adressen) haben.
+
+Wenn die Blockchain oder in diesem Fall die OKChain die Transaktionen speichert, und solange Sie Ihre privaten Schlüssel haben, sind die OKCash in diesen Adressen sicher. Also, wenn Sie Ihre Festplatte mit 600 OKCash verlieren, solange Ihr Backup den privaten Schlüssel für diese Adresse hält, werden Sie immer noch das volle Guthaben haben, egal ob jemand Ihnen weitere OKCash zu dieser Adresse schickt und Sie den Computer ausschalten. Sie haben immer noch die 600 OKCash und auch die neuen Transaktionen sind auf der Kette gespeichert, also sind sie nie verloren, solange Sie die Schlüssel für Ihre Adresse haben, können nur Sie darauf zugreifen.
+
+-
+
+Was bedeutet mein Gewicht und was ist das Netzwerkgewicht in der Wallet? Beeinflusst es, wie lange es dauert, um über das Staking belohnt zu werden? Ich habe irgendwo gesehen, dass es von 200 Tagen bis über tausend Tage dauern kann, um sich eine Belohnung zu verdienen. Ich bin nur neugierig.
+
+In einfacher Hinsicht könnte man Ihr Gewicht als "Alter und Qualität" der OKCash für das Staking in Ihrer Wallet ansehen.
+
+Aus technischer Sicht:
+
+Das Gewicht jeder Adresse beginnt bei 0.
+Wenn eine Adresse eine Signatur liefert, erhöht sich ihr Gewicht nach mehreren Signaturen,
+Das gewicht nähert sich der zahl der münzen in der adresse ab dem letzten signaturblock:
+
+Neues Gewicht = 0,9 * Altgewicht + 0,1 * Balance
+
+Wenn eine Signatur nicht von der Adresse in einem Signaturblock bereitgestellt wird, nimmt sein Gewicht ab:
+
+Neues Gewicht = 0,9 * Altgewicht
+
+Auf diese Weise, Adressen, deren Besitzer nicht an der Unterzeichnung teilnehmen wollen, behindern nicht die Fähigkeit, eine Mehrheit zu erreichen.
+
+Wenn eine Adresse zwei gegensätzliche Blöcke unterschreibt, wird ihr Gewicht auf 0 zurückgesetzt. Dies ist, um die Macht der bösartigen Stakeholder zu begrenzen.
 
 In more technical terms:
 
@@ -687,15 +708,15 @@ If an address signs two conflicting blocks, its weight is reset to 0. This is to
 
 ******c4
 
-English
+Englisch
 
-Spanish
+Spanisch
 
-Chinese
+Chinesisch
 
-Russian
+Russisch
 
-German
+Deutsch
 
 ******c5
 
