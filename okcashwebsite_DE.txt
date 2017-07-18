@@ -1,0 +1,715 @@
+******a1
+
+	
+OKCash Wallets
+Wählen Sie Ihre Wallet
+
+
+IoT
+Raspberry Pi
+	  	
+
+Mobile
+UberPay Android
+	  	
+
+Desktop
+Windows Installer
+Windows zip file
+Mac OS X
+Ubuntu Linux
+	  	
+
+Web
+CriptoPay
+CoinToPay
+CoinWallet
+	  	
+
+Off-line
+Paper Wallets 
+
+******a2
+
+Aktualisiertes Bootstrap: OKchain
+Aktuelle Wallet Release Notes: v3.0.0.4
+Konfigurationsdatei für die Services: okcash.conf
+
+Erstes voll optimiertes Betriebssystem für Raspberry Pi mit integrierten Krypto-Wallets
+*Frei verfügbar
+
+Willkommen in der nächsten Generation der digitalen Währung
+
+OKCash ist Open-Source; das Konzept ist öffentlich, niemand besitzt oder kontrolliert OKCash und jeder kann mitmachen.
+
+******a3
+
+SCHNELLE TRANSAKTIONEN
+OKCash ist digitales Bargeld. Transaktionen haben wirklich schnelle Bestätigungen, so dass sie praktisch sofort passieren.
+
+GLOBALE ZAHLUNGEN
+Sie können überall auf der Welt OKCash an Familie oder Freunde senden oder für Waren oder Dienstleistungen bezahlen.
+
+KEINE BANK GEBÜHREN
+OKCash ist eine dezentralisierte digitale Währung, d.h. es gibt keine Banken, die sich einen Anteil von Ihrem Geld zu nehmen.
+
+SICHERES NETZWERK
+Das OKCash-Netzwerk ist dezentralisiert, frei von Zwischenhändlern, damit haben Sie die Kontrolle über Ihre Finanzen, und stellt ein sicheres Netzwerk für alle Ihre Zahlungen bereit.
+
+SICHERN SIE SICH OKCASH
+Halten Sie einfach Ihre OKCash Wallet Software am Laufen und Sie werden eine jährliche Rendite von 69% auf Ihre OKCash, die Sie bereits in Ihren Wallet haben, erhalten.
+
+DIE OKCASH WALLET
+Ihre Wallet ist die Software, die Sie zum Senden, Empfangen und Speichern Ihrer OKCash verwenden. Sie ist einfach zu bedienen und Sie können Zahlungen aus Ihrer Wallet tätigen.
+
+TEILEN SIE OKCASH
+Die Benutzung von OKCash macht Spaß und es super einfach für jeden OKCash in sozialen Netzwerken zu teilen oder für Zahlungen zu verwenden.
+
+AKZEPTIEREN SIE OKCASH
+Alles was Sie brauchen ist eine OKCash Wallet, um OKCash als Zahlung für Waren oder Dienstleistungen zu akzeptieren. Zeigen Sie Ihre eindeutige OKCash Adresse um Zahlungen zu akzeptieren. Es gibt keine Bearbeitungsgebühren und Transaktionen sind schnell.
+
+******a4
+
+WELTWEITE STATISTIK
+ 
+Bis jetzt erstellte Addressen
+
+Adressen mit mehr als 1000 OK
+
+Coinmarketcap Rang
+
+OKCash im Umlauf
+
+Die Zukunft von Zahlungen über soziale Netzwerke
+
+******a5
+
+    OKCash Online Wallet
+    Buy/Sell on Bittrex
+    Buy/Sell on Bleutrade
+    Buy/Sell on Cryptopia
+    Haftungsausschluss / Disclaimer
+
+    CoinGecko Rang
+    CoinMarketCap Rang
+    OKCash Explorer
+    Github - Source
+    OKCash on IRC
+
+Folge OK
+
+******b1
+
+Für den Einzelnen
+
+OKCash für den Einzelnen
+
+Die Zukunft von Zahlungen über soziale Netzwerke
+
+OKCash auf Handys ist ein perfekter Weg zum Geben von Trinkgeld, Teilen von OK oder unterwegs für Produkte und Dienstleistungen zu bezahlen. Es erlaubt Ihnen auf einem wirklich einfachen und schnellen Weg zu bezahlen, indem Sie entweder einen QR-Code scannen, um die Zahlung zu tätigen, oder indem Sie die Adresse direkt eingeben, um die Coins zu senden. Sie brauchen sich nirgends registrieren oder anzumelden, Karten verwenden, eine PIN einzugeben, oder irgendetwas anderes. Alles was Sie benötigen um OK-Zahlungen zu erhalten, ist es den QR-Code in Ihrer OKCash App zu zeigen und dann lassen Sie beispielsweise Ihren Freund Ihr Handy scannen. Sie können auch einige der sozialen Netzwerke verwenden, um OK überall zu hinzusenden, ohne dass der Empfänger auch eine OKCash-Wallet installiert haben muss, um sie zu bekommen.
+
+Sicherheit, Kontrolle über Ihre Coins
+
+OKCash-Transaktionen werden durch militärische Kryptographie gesichert. Niemand kann Ihnen Geld in Rechnung stellen oder eine Zahlung in Ihrem Namen tätigen. Und solange Sie die erforderlichen Schritte zur Sicherung Ihrer Wallet vornehmen, kann OKCash Ihnen die volle Kontrolle über Ihr Geld und ein starkes Maß an Schutz gegen viele Arten von Betrug geben. Sie haben immer die Kontrolle über Ihr eigenes Geld und können das Coin-Kontrollsystem nutzen, um noch detailliertere Erfahrungen zu haben.
+
+Funktioniert überall und die ganze Zeit
+
+Genau wie das Internet. Das OKCash Network ist 24 Stunden am Tag, 7 Tage die Woche und 365 Tage im Jahr und zugänglich von jedem Teil der Welt mit einer Internetverbindung, es ist immer verfügbar und zugänglich für jede der verschiedenen Wallets oder Dienstleistungen. Sie habe die Wahl, entweder eine der Online-Wallet, die Haupt-Wallet, die Daemons oder eine der verschiedenen Multiwallets für Android für OKCash zu verwenden, so dass jeder Benutzer sein Lieblingsprogramm auswählen kann. Kein Problem, alle Programme sind kompatibel, da sie die gleiche offene Technologie verwenden. Das Netzwerk ist dezentralisiert also frei von Zwischenhändlern und zentralen Fehlerstellen.
+
+Schnelle und einfache internationale Zahlungen
+
+Das Senden von OK über die ganze Welt ist so einfach wie das Senden einer E-Mail. Es gibt keine Wartezeiten wie bei Banken, noch zusätzliche Gebühren oder spezielle Einschränkungen wie die minimale oder maximale Menge, die Sie senden können. Sie haben die volle Kontrolle und der Empfänger wird die Zahlung in Sekunden bei sich eingehen sehen.
+
+Die niedrigsten Gebühren auf dem Markt
+
+Es gibt keine Gebühr um OKCash zu erhalten, und die Gebühr für das Senden beträgt nur 0.0001 OKcash egal wohin Sie es senden, eine der niedrigsten Gebühren auf dem Markt. Auf einigen Wallets können Sie einstellen, wie hoch die Gebühr für eine Überweisung sein soll. Höhere Gebühren können jedoch noch schnellere Bestätigungen Ihrer Transaktionen anregen.
+
+Schütze deine Identität
+
+Mit OKCash gibt es keine Daten, die ein böswilliger Mensch nutzen könnte um sich als Sie auszugeben. Durch die Verwendung von sicheren Verhaltensweisen können Sie Ihre Privatsphäre schützen ohne Ihre Identität preis zu geben.
+
+
+******b2
+
+Für Unternehmen
+
+OKCash für Unternehmen
+
+Die niedrigsten Gebühren auf dem Markt
+
+Es gibt keine Gebühr um OKCash zu erhalten, und die Gebühr für das Senden beträgt nur 0.0001 OKcash egal wohin Sie es senden, eine der niedrigsten Gebühren auf dem Markt. Auf einigen Wallets können Sie einstellen, wie hoch die Gebühr für eine Überweisung sein soll. Höhere Gebühren können jedoch noch schnellere Bestätigungen Ihrer Transaktionen anregen.
+
+Schutz vor Betrug
+
+Jedes Unternehmen, das Kreditkarten oder PayPal akzeptiert, kennt das Problem der Zahlungen, die später zurückgezogen werden. Die Schadensersatzansprüche führen zu einer begrenzten Marktreichweite und zu erhöhten Preisen, was wiederum die Kunden benachteiligt. OKCash-Zahlungen sind irreversibel und sicher, was bedeutet, dass die Betrugskosten nicht mehr auf den Schultern der Händler lastet.
+
+Schnelle und einfache internationale Zahlungen
+
+Das Senden von OK über die ganze Welt ist so einfach wie das Senden einer E-Mail. Es gibt keine Wartezeiten wie bei Banken, noch zusätzliche Gebühren oder spezielle Einschränkungen wie die minimale oder maximale Menge, die Sie senden können. Sie haben die volle Kontrolle und der Empfänger wird die Zahlung in Sekunden bei sich eingehen sehen.
+
+Keine PCI Zertifizierung notwendig
+
+Das Akzeptieren von Kreditkarten online erfordert in der Regel umfangreiche Sicherheits-Checks, um den PCI-Standard einzuhalten. OKCash erfordert noch, dass Sie Ihre Wallet und Ihre Zahlungsaufforderung sichern. Allerdings tragen Sie nicht die Kosten und die Verantwortung, die mit der Verarbeitung von sensiblen Informationen Ihrer Kunden kommt, wie Kreditkarteninformationen.
+
+Gewinnen Sie an Aufsehen
+
+OKCash ist ein aufstrebender Markt von neuen Kunden, die nach Möglichkeiten suchen, ihre OKCash auszugeben. Akzeptieren ist ein guter Weg, um neue Kunden zu bekommen und geben Ihrem Unternehmen eine neue Präsenz auf dem Markt. Die Annahme einer neuen Zahlungsmethode hat sich oft als eine geschickte Praxis für Online-Unternehmen gezeigt.
+
+Transparenz in der Buchhaltung
+
+Viele Organisationen sind verpflichtet, Buchhaltungsunterlagen über ihre Tätigkeit zu erstellen. Mit OK können Sie die höchstmögliche Transparenz bieten, da Sie Informationen zur Verfügung stellen können, die Ihre Mitglieder verwenden können um Ihre Salden und Transaktionen zu prüfen. Durch die Transparenz des Systems können Non-Profit-Organisationen der Öffentlichkeit zeigen, wie viele Spendengelder sie erhalten haben.
+
+******b3
+
+Für Entwickler
+
+OKCash für Entwickler
+ 
+Einfachstes und sozialstes Zahlungssystem
+
+Sofern die Zahlung nicht mit automatischen Rechnungen verknüpft werden muss, ist die Annahme von Geld so einfach wie das Senden einer OKCash-Adressverbindung oder die Anzeige eines OK-QR-Codes. Dieses einfache Setup kann jeder nutzen und erfüllt die Bedürfnisse einer großen Menge an Kunden. Wenn das System öffentlich gehalten wird, eignet es sich besonders für transparente Spenden und Trinkgelder. Sie können sogar OKCash über IRC oder die verschiedenen Sozialen Netzwerke wie Reddit oder Twitter teilen, ohne auch nur eine Wallet-Software installiert zu haben.
+
+APIs für Drittanbieter
+
+Es gibt viele Drittanbieter für Zahlungsabwicklungsdienste, die APIs bereitstellen; Sie müssen nicht OKCash auf Ihrem Server zu speichern und müssen sich keine Gedanken über ein Sicherheitskonzept machen. Darüber hinaus können die meisten dieser APIs Rechnungen verarbeiten und Ihre OKCash in Ihre Hauswährung zu wettbewerbsfähigen Kosten umtauschen. Als Open Source Software können Sie sie auch nutzen, um neue Dienste zu erstellen.
+
+Sie können Ihr eigenes Finanzsystem sein
+
+Wenn Sie keine Drittanbieter-APIs verwenden, können Sie einen OKCash-Knoten direkt in Ihre Anwendungen integrieren, so dass Sie Ihre eigene Bank und Zahlungsprozessor werden können. Mit all den Verantwortlichkeiten, die dies impliziert, können Sie erstaunliche Systeme erschaffen, die OKCash-Transaktionen verarbeiten wie Sie es möchten.
+
+OKCash-Adressen, um Rechnungen zu verfolgen
+
+OK erstellt eine eindeutige Adresse für jede Transaktion. Also, wenn Sie ein Zahlungssystem für Ihre Rechnungen aufbauen, müssen Sie nur eine OK-Adresse für jede Zahlung zu generieren und zu verfolgen. Sie sollten die gleiche Adresse nie für mehr als eine Transaktion verwenden.
+
+Das Meiste der Sicherheit ist auf der Client-Seite
+
+Die meiste Sicherheit wird durch das Protokoll bereitgestellt, wodurch die Notwendigkeit einer PCI-Zertifizierung verfällt. Einem Betrug kann einfach vorgebeugt werden, indem Sie eine einzelne Variable überwachen: die Bestätigungswertung einer Transaktion. Ob Ihre Ok sicher sind hängt hauptsächlich davon ab, wie sicher Sie Ihre Wallet halten und HTTPS oder andere sichere Protokolle für Zahlungsaufforderungen an Kunden verwenden.
+
+Die Zukunft von Zahlungen über soziale Netzwerke
+
+Mit OKCash können Sie neue und kreative Online-Services entwerfen, die vor finanziellen Einschränkungen nicht existieren konnten. Dazu gehören Trinkgeldsysteme, automatisierte Zahlungslösungen, verteilte Crowd-Finanzierungsservices, zeitgesteuertes Zahlungsmanagement, Public Asset Tracking, vertrauenswürdige Treuhanddienste, Micro-Payment-Kanäle, Staking-Pools und vieles mehr.
+
+******b4
+
+Der Anfang
+Wie wird OKCash genutzt
+
+1. Informieren Sie sich
+
+OKCash ist anders als das, was Sie wissen und jeden Tag verwenden. Bevor Sie mit OKCash anfangen, gibt es ein paar Dinge, die Sie wissen müssen, um es sicher zu benutzen und gängige Fallstricke zu vermeiden.
+
+Weiterlesen
+
+2. Wählen Sie Ihre Wallet
+
+Sie können eine OKCash Wallet in Ihrem Alltag mit Ihrem Handy einbringen oder Sie können eine Wallet nur für Online-Zahlungen auf Ihrem IoT-Gerät oder auf Ihrem Computer nutzen. In jedem Fall kann die Wahl Ihrer Wallet in einer Minute erfolgen.
+Wählen Sie Ihre Wallet
+	  	
+3. Erhalten Sie OKCash
+
+Sie können OKCash erhalten, indem Sie sie als eine Zahlung für Waren und Dienstleistungen annehmen oder in dem Sie sie von einem Freund oder jemand in Ihrer Nähe kaufen. Sie können sie auch direkt von einer Börse mit Ihrem Bankkonto kaufen.
+Finden Sie Börsenplattformen
+
+4. OKCash ausgeben
+
+Es gibt eine wachsende Zahl von Dienstleistungen und Händler, die OKCash auf der ganzen Welt akzeptieren. Sie können OKCash verwenden, um sie zu bezahlen und am Besten bewerten Sie Ihre Erfahrungen anschließend, um ehrlichen Unternehmen zu helfen, mehr Aufsehen zu erreichen.
+Finden Sie Händler
+
+
+
+Wie kann OKCash akzeptiert werden
+
+
+1. Informieren Sie sich
+
+OKCash verlangt von keinem Händler, seine Abläufe zu ändern. Allerdings ist OKCash anders als das, was Sie wissen und jeden Tag verwenden. Bevor Sie mit OKCash anfangen, gibt es ein paar Dinge, die Sie wissen müssen, um es sicher zu benutzen und gängige Fallstricke zu vermeiden.
+Weiterlesen
+
+2. Zahlungen verarbeiten
+
+Sie können Zahlungen und Rechnungen selbst verarbeiten oder Händlerdienste verwenden und dann Ihr Geld in Ihrer Hauswährung oder OKCash halten. Die meisten Unternehmen verwenden als Verkaufstelle ein Tablet oder ein Mobiltelefon, damit Kunden mit ihren Handys bezahlen können.
+Finden Sie Handelsdienstleistungen
+	  	
+3. Buchhaltung und Steuern
+
+Händlerpreise werden oft in der Hauswährung hinterlegt und angezeigt. In anderen Fällen funktioniert OKCash ähnlich wie eine Fremdwährung. Um eine angemessene Anleitung zur steuerlichen Einhaltung Ihrer eigenen Rechtsprechung zu erhalten, wenden Sie sich bitte an einen qualifizierten Buchhalter in Ihrem Land.
+
+4. Aufmerksamkeit
+
+Es gibt eine wachsende Zahl von Benutzern, die nach Möglichkeiten suchen, ihre OKCash auszugeben. Sie können Ihr Geschäft in Online-Verzeichnisse eintragen lassen, um ihnen zu helfen, Sie leichter zu finden. Sie können auch das OKCash-Logo auf Ihrer Website oder Ihrem Ziegel- und Mörtelgeschäft zeigen.
+
+*****b5
+
+So geht's
+OK Grundlagen für neue Benutzer
+
+Als neuer Benutzer können Sie mit OKCash beginnen, ohne die technischen Details zu verstehen. Sobald Sie eine OKCash-Wallet auf Ihrem Computer, Mobiltelefon oder IoT-Gerät installiert haben, wird es Ihre erste OK-Adresse generieren und Sie können mehr Adressen erstellen, wann immer Sie diese benötigen. Sie können Ihre Adressen an Ihre Freunde oder Kunden weitergeben, damit sie Sie bezahlen können und umgekehrt. Dies funktioniert ziemlich ähnlich wie E-Mail versenden, außer dass OKCash-Adressen nur einmal verwendet werden sollten.
+
+Bilanzen - OK Block Chain / Blockkette
+
+Die OK Block Chain ist ein gemeinsames öffentliches Hauptbuch, wie in der Buchhaltung, auf dem sich das gesamte OKCash-Netzwerk stützt. Alle bestätigten Transaktionen sind in der OK-Blockkette enthalten. Auf diese Weise können OKCash-Wallets ihre verbringbare Bilanz berechnen und die neuen Transaktionen können überprüft werden, um nur OK Cash auszugeben, die tatsächlich im Besitz der Geber sind. Die Integrität und die chronologische Reihenfolge der Blockkette werden mittels Kryptographie durchgesetzt.
+
+Transaktionen - private Schlüssel
+
+Eine Transaktion ist eine Wertübertragung zwischen OKCash-Wallets, die in der OK-Blockkette enthalten ist. OKCash Wallets halten ein geheimes Stück von Daten, die als privater Schlüssel oder Seed (Verschlüsselungswert) bezeichnet werden, die verwendet werden, um Transaktionen zu unterzeichnen, die einen mathematischen Beweis liefern, dass sie vom Besitzer der Wallet gekommen sind. Die Unterschrift verhindert auch, dass die Transaktion von jedem geändert wird, sobald er ausgegeben wurde. Alle Transaktionen werden zwischen den Benutzern ausgestrahlt und beginnen in der Regel durch das Netzwerk in den folgenden 10 Sekunden durch einen Prozess namens Staking zu bestätigen.
+
+Verarbeitung - Staking
+
+Staking ist ein verteiltes Konsensus-System, das verwendet wird, um wartende Transaktionen zu bestätigen, indem sie die Transaktionen in die OK-Blockkette aufnehmen. Es erzwingt eine chronologische Reihenfolge in der OK-Blockkette, schützt die Neutralität des Netzwerks und ermöglicht es verschiedenen Computern, sich auf den Zustand des Systems zu einigen. Um zu bestätigen, müssen Transaktionen in einem Block gepackt werden, der sehr strenge Kryptographie-Regeln passt, die vom Netzwerk überprüft werden. Diese Regeln verhindern, dass vorherige Blöcke geändert werden, weil dadurch alle folgenden Blöcke ungültig werden. Staking schafft auch das Äquivalent einer wettbewerbsfähigen Lotterie, die jede Person daran hindert, einfach neue Blöcke nacheinander in der OK-Blockkette hinzuzufügen. Auf diese Weise können keine Einzelpersonen kontrollieren, was in der OK-Blockkette enthalten ist, oder Teile der OK-Blockkette ersetzen, um ihre eigenen Ausgaben zurückzuholen.
+
+
+******b6
+
+
+Einige Dinge, die Sie wissen müssen
+
+Wenn Sie im Begriff sind, OKCash zu erforschen, gibt es ein paar Dinge, die Sie wissen sollten. OKCash lässt Sie Geld auf andere Weise austauschen als bei den üblichen Banken. Als solches sollten Sie sich Zeit nehmen, um sich zu informieren, bevor Sie OKCash für eine ernsthafte Transaktion verwenden. OKCash sollte mit der gleichen Pflege wie Ihre reguläre Brieftasche behandelt werden, oder besser in einigen Fällen.
+
+Schützen Sie Ihre Wallet
+
+Wie im wirklichen Leben muss Ihre Wallet geschützt werden. OKCash macht es möglich, den Wert überall auf eine sehr einfache Art und Weise zu übertragen und es Ihnen erlaubt, die Kontrolle über Ihr Geld zu haben. Solche großartigen Features kommen auch mit großen Sicherheitsbedenken. Gleichzeitig kann OKCash ein sehr hohes Maß an Sicherheit bieten, wenn es richtig verwendet wird. Denken Sie aber immer daran, dass es Ihre Verantwortung ist, bewährte Praktiken einzusetzen, um Ihr Geld zu schützen. Lesen Sie mehr über die Sicherung Ihrer Wallet.
+
+OKCash Preis ist flüchtig
+
+Der Preis eines OKCash kann aufgrund seiner jungen Wirtschaft, neuartigen Natur und manchmal illiquiden Märkten unvorhersehbar über einen kurzen Zeitraum hinweg zu oder abnehmen. Folglich wird das Anlegen/Sparen Ihres Geldes bei OKCash an dieser Stelle nicht empfohlen. OKCash sollte wie eine Risikoanlage mit hohem Risiko gesehen werden, und Sie sollten kein Geld anlegen, das Sie sich nicht leisten können, mit OKCash zu verlieren. Wenn Sie mit OKCash Zahlungen erhalten, können viele Dienstleister sie in Ihre Landeswährung umwandeln.
+
+OKCash-Zahlungen sind irreversibel
+
+Jede Transaktion, die mit OKCash gemacht wird, kann nicht rückgängig gemacht werden, sie können nur von der Person zurückerstattet werden, die die Mittel erhält. Das heißt, Sie sollten darauf achten, Geschäfte mit Menschen und Organisationen zu machen, die Sie kennen und vertrauen, oder die einen guten Ruf haben.Unternehmen müssen die Kontolle über ihre Zahlungsaufforderungen behalten, die diese ihren Kunden anzeigen. OKCash kann Tippfehler erkennen und wird in der Regel nicht zulassen, dass Sie Geld zu einer ungültigen Adresse versehentlich senden. Zusätzliche Dienste könnten in Zukunft entstehen, um mehr Auswahl und Schutz für den Verbraucher zu bieten.
+
+OKCash ist nicht anonym
+
+Es ist etwas mehr Aufwand erforderlich um Ihre Privatsphäre rund um OKCash zu schützen. Alle OK-Transaktionen werden öffentlich und dauerhaft im Netzwerk gespeichert, was bedeutet, dass jeder den Saldo und Transaktionen jeder OK-Adresse sehen kann. Die Identität des Benutzers hinter einer Adresse bleibt unbekannt, bis Informationen während eines Kaufs oder unter anderen Umständen offen gelegt werden. Dies ist ein Grund, warum OK-Adressen nur einmal verwendet werden sollten. Denken Sie immer daran, dass es Ihre Verantwortung ist, bewährte Praktiken anzunehmen, um Ihre Privatsphäre zu schützen. Lesen Sie mehr zum Schutz Ihrer Privatsphäre.
+
+Unbestätigte Transaktionen sind nicht sicher
+
+Transaktionen sind nicht von Anfang an irreversibel, stattdessen erhalten sie eine Bestätigungswertung, die angibt, wie schwer es ist, sie umzukehren (siehe Tabelle). Jede Bestätigung dauert zwischen 40 und 69 Sekunden, wobei 1 Minute der Durchschnitt ist. Wenn die Transaktion zu wenig überweist oder eher untypisch ist, kann die erste Bestätigung länger dauern.
+
+Bestätigungen 	Leichte Wallet 	OKCash Core
+0 	Nur sicher, wenn Sie der Person vertrauen, die Sie bezahlt hat
+1 	Etwas zuverlässig 	    Meist zuverlässig
+5 	Meist zuverlässig 	        Äußerst zuverlässig
+10 	Minimale Empfehlung für höherwertige OKCash-Transaktionen
+
+OKCash ist noch experimentell
+
+OKCash ist eine experimentelle neue Währung, die sich in der aktiven Entwicklung befindet. Jede Verbesserung macht OKCash attraktiver, zeigt aber auch neue Herausforderungen, wie die OKCash-Akzeptanz wächst. Während dieser Wachstumsschmerzen können Sie auf erhöhte Gebühren, langsame Bestätigungen oder noch schwerere Probleme stoßen. Seien Sie auf Probleme vorbereitet und konsultieren Sie einen Fachmann, bevor Sie größere Investitionen tätigen, aber denken Sie daran, dass niemand die Zukunft von OKCash vorhersagen kann.
+
+Regierungssteuern und Vorschriften
+
+OKCash ist keine offizielle Währung. Das heißt, die meisten Staaten verlangen immer noch, dass Sie auf Einkommen, Umsatz, Lohn- und Gehaltsabrechnung Steuern zahlen, auf alles was Wert hat, einschließlich OKCash. Es liegt in Ihrer Verantwortung, sicherzustellen, dass Sie sich an Steuer- und sonstige gesetzliche oder behördliche Mandate halten, die von Ihrer Regierung und / oder den örtlichen Gemeinden ausgestellt wurden.
+
+
+******b7
+
+Schützen Sie Ihre Wallet
+
+Wie im wirklichen Leben muss Ihre Wallet geschützt werden. OKCash macht es möglich, den Wert überall auf eine sehr einfache Art und Weise zu übertragen und es Ihnen erlaubt, die Kontrolle über Ihr Geld zu haben. Solche großartigen Features kommen auch mit großen Sicherheitsbedenken. Gleichzeitig kann OKCash ein sehr hohes Maß an Sicherheit bieten, wenn es richtig verwendet wird. Denken Sie aber immer daran, dass es Ihre Verantwortung ist, bewährte Praktiken einzusetzen, um Ihr Geld zu schützen. Lesen Sie mehr über die Sicherung Ihrer Wallet.
+
+Seien Sie vorsichtig mit Online-Diensten
+
+Sie sollten mit jeder Dienstleistung vorsichtig sein, die Ihr Geld online ablegt. Viele Börsen und Online-Wallets litten unter Sicherheitslücken in der Vergangenheit und solche Dienste bieten in der Regel noch nicht genug Schutz und Sicherheit, um verwendet zu werden, um Geld wie eine Bank zu halten. Dementsprechend wollen Sie vielleicht auch andere Arten von OKCash Wallets verwenden. Andernfalls sollten Sie diese Leistungen sehr sorgfältig wählen. Zusätzlich wird immer eine Zwei-Faktor-Authentifizierung empfohlen.
+
+Kleine Mengen für den täglichen Gebrauch
+
+Eine OKCash Wallet ist wie eine Wallet mit Bargeld. Wenn Sie nicht gerne tausend Dollar in Ihrer Tasche haben, sollten Sie vielleicht die gleiche Ansicht für Ihre OKCash Wallet haben. Im Allgemeinen ist es eine gute Praxis, nur kleine Mengen von OK auf Ihrem Computer, Handy oder Server für den täglichen Gebrauch zu halten und den restlichen Teil Ihres Geldes in einer sichereren Umgebung zu halten.
+
+Sichern Sie Ihre Wallet
+
+An einem sicheren Ort aufbewahrt, kann eine Sicherung Ihrer Wallet Sie vor Computerausfällen und vielen menschlichen Fehlern schützen. Damit können Sie dann auch Ihre Wallet wiederherstellen, nachdem Ihr Handy oder Computer gestohlen wurde, wenn Sie Ihre Wallet verschlüsselt halten.
+
+Sichern Sie Ihre gesamte Wallet
+
+Einige Wallets benutzen intern viele versteckte private Schlüssel. Wenn Sie nur eine Sicherung der privaten Schlüssel für Ihre sichtbaren OKCash-Adressen haben, sind Sie vielleicht nicht in der Lage einen großen Teil Ihres Geldes mit Ihrer Sicherung wiederherzustellen.
+
+Verschlüsseln Sie Online-Backups
+
+Jede Sicherung, die online gespeichert wird, ist sehr anfällig für Diebstahl. Auch ein Computer, der mit dem Internet verbunden ist, ist anfällig für schädliche Software. Als solche ist die Verschlüsselung einer Sicherung, die dem Netzwerk ausgesetzt ist, eine gute Sicherheitspraxis.
+
+Verwenden Sie viele sichere Standorte
+
+Einmalige Fehler sind für die Sicherheit schlecht. Wenn Ihr Backup nicht von einem einzigen Standort abhängig ist, ist es weniger wahrscheinlich, dass ein schlechtes Ereignis verhindern wird, dass Sie Ihre Wallet wiederherstellen können. Sie sollten auch die Verwendung von verschiedenen Medien wie USB-Sticks, Papiere und CDs in Betracht ziehen.
+
+Regelmäßige Sicherungen machen
+
+Sie müssen Ihre Wallet regelmäßig sichern, um sicherzustellen, dass alle aktuellen OKCash-Änderungsadressen und alle neuen OKCash-Adressen, die Sie erstellt haben, in Ihrem Backup enthalten sind. Allerdings werden alle Anwendungen bald mit Wallets funktionieren, die nur einmal gesichert werden müssen.
+
+Verschlüsseln Sie Ihre Wallet
+
+Wenn Sie Ihre Wallet oder Ihr Smartphone verschlüsseln, können Sie ein Passwort für jeden einstellen, der versucht, alle Mittel zurückzuziehen. Dies schützt vor Dieben, aber leider nicht vor Keylogging-Hardware oder Software.
+
+Vergessen Sie niemals Ihr Passwort
+
+Sie sollten sicherstellen, dass Sie das Passwort nie vergessen oder Ihr Geld wird dauerhaft verloren sein. Im Gegensatz zu Ihrer Bank gibt es sehr begrenzte Passwortwiederherstellungsoptionen mit OKCash. Sie sollten wirklich in der Lage sein, sich an Ihr Passwort zu erinnern auch nach vielen Jahren ohne es zwischendurch verwendet zu haben. Im Zweifel sollten Sie eine Papierkopie Ihres Passworts an einem sicheren Ort aufbewahren, z.B. in einem Safe.
+
+Verwenden Sie ein starkes Passwort
+
+Jedes Passwort, das nur Buchstaben oder erkennbare Wörter enthält, kann als sehr schwach und leicht zu brechen angesehen werden. Ein starkes Passwort muss Buchstaben, Zahlen, Satzzeichen und muss mindestens 16 Zeichen lang sein. Die sichersten Passwörter sind die von Programmen, die speziell für diesen Zweck entworfen wurden. Starke Passwörter sind in der Regel schwerer zu merken, somit sollten Sie darauf achten, dass Sie sich daran erinnern können.
+
+Offline Wallets für Rücklagen
+
+Eine Offline-Wallet, auch bekannt als Kaltlager, bietet die höchste Sicherheit für Rücklagen. Es handelt sich um die Speicherung einer Wallet an einem sicheren Ort, der nicht mit dem Netzwerk verbunden ist. Wenn es richtig gemacht wird, kann es einen sehr guten Schutz gegen Computer-Schwachstellen bieten. Die Verwendung einer Offline-Wallet in Verbindung mit Backups und Verschlüsselung ist auch eine gute Praxis. Hier ist ein Überblick über einige Ansätze.
+
+Halten Sie Ihre Software auf dem aktuellen Stand
+
+Mit der neuesten Version Ihrer OKCash Software können Sie wichtige Stabilitäts- und Sicherheitsfixes erhalten. Updates können Probleme mit verschiedenem Schweregrad verhindern, neue nützliche Funktionen enthalten und helfen, Ihre Wallet sicher zu halten. Installieren von Updates für alle anderen Software Komponenten auf Ihrem Computer oder Handy ist auch wichtig, um Ihre Wallet-Umgebung sicherer zu halten.
+
+Denken Sie an Ihr Testament
+
+Ihre OKCash können für immer verloren gehen, wenn Sie keinen Backup-Plan für Ihre Freunde und Familie haben. Wenn die Lage Ihrer Wallet oder Ihre Passwörter von niemandem bekannt sind, wenn Sie weg sind, gibt es keine Hoffnung mehr, dass Ihre Gelder jemals wiederhergestellt werden können. Ein bisschen Zeit in diese Dinge zu investieren kann einen großen Unterschied machen.
+
+
+
+******b8
+
+Ressourcen
+
+Nützliche Orte
+
+OKCash BtcTalk Original Ann
+
+OKCash Wiki (bald)
+
+Bitcoin & OKCash Explorer Rocks
+
+Bitcoin & OKCash Community Events
+Verzeichnisse und Händler
+
+Wallets - okcash.co
+
+Händler - cointopay.com
+
+Händler - cryptopia.co.nz
+
+Web Hosting Services - cryptocloudhosting.org
+
+Händler Tools - (im Bau)
+
+Non-profits - (im Bau)
+News
+
+LetsTalkPayments CES2016
+
+TechCrunch
+
+NewsBtc US	
+
+BlockChain BP
+
+Altcoins News
+
+Satoshis Guru
+
+Cryptos Us
+
+Bitcoin Rush
+CryptoLix 	
+OK chain explorers
+
+CryptoId.info
+
+Explorer.rocks
+
+Cryptopia.co.nz
+
+Multifaucet.tk
+Zahlungsprovider
+
+Cripto-Pay.com
+
+CoinToPay.com
+Handelsplattformen
+
+Bittrex.com
+
+Cripto-Pay.com
+
+BleuTrade.com
+
+Cryptopia.co.nz
+
+YoBit.net
+OK Graphics
+
+OKCash Logo 500px
+
+Werbegrafik
+
+OK Wallpapers
+	
+Mining / Staking Pools
+
+OKCashpool.info - Multipool
+Charts und Statistiken
+
+CoinGecko.com
+
+CoinMarketCap.com
+
+Quandl.com
+
+CoinHills.com
+
+Cryptrader.com
+
+Cryptuitive.com
+
+Cryptonator.com
+
+CryptoCoinCharts.info
+
+ExchangeWar.info
+
+Saldigi.info
+Filme
+
+OKCash Videos
+Learning resources
+
+(im Bau) 
+
+******b9
+
+Community
+ 
+Foren
+
+BitcoinTalk Forum
+
+Reddit's OKCash Community
+
+BitcoinGarden
+
+Cryptopia
+
+CryptoScene
+
+CryptosUs
+
+AltcoinsFoundation
+
+AllCryptoTalk
+
+CryptoCoinTalk
+
+RaspberryPi
+
+Foro-Ptc
+
+ForoBits
+IRC Chat
+
+IRC Channels on freenode.
+
+#okcash (General OKCash-related)
+	
+Soziale Netzwerke
+
+Twitter Search
+
+OKCash Twitter Updates
+
+Facebook Seite
+
+Google+
+
+Tumblr - Updates
+
+Pinterest
+
+Instagram
+
+Youtube
+
+About
+
+Voat
+Tip Bots
+
+OKCashTip at Twitter
+
+OKCashTip at Reddit
+
+OKCashTip at IRC
+
+******c1
+
+Dokumentation
+
+OK Developer Dokumentation
+
+OKCash basiert auf und wird von Bitcoin inspiriert und unterstützt.
+Finden Sie nützliche Ressourcen, Leitfäden und Referenzmaterial für Entwickler.
+(im Bau)
+ 
+
+Guide
+	
+
+Referenzen
+	
+
+Beispiele
+	
+
+Glossar
+
+******c2
+
+Innovation
+
+Die Zukunft von Zahlungen über soziale Netzwerke
+
+Das OKCash-Protokoll ist nicht nur da um Geld von A nach B zu senden. Es hat eine starke und ständig wachsende soziale Präsenz, einen universellen Namen. Darüber hinaus hat es viele Features wie den verschlüsselten Anon Nachrichten Chat, optionale anonyme Token und öffnet viele Möglichkeiten, die die Community gerade erst entdeckt. Hier sind einige der derzeit erforschten Technologien und in einigen Fällen sind sie sogar zu echten Produkten und Dienstleistungen geworden. Die interessantesten Verwendungen von OKCash sind wohl noch zu entdecken.
+
+ 
+Schutz vor Betrug
+
+Mit OKCash ist ein noch nie dagewesenes Sicherheitsniveau möglich. Das Netzwerk bietet Benutzern Schutz gegen die meisten verbreiteten Betrügereien wie Rückzahlungen oder unerwünschte Gebühren, und OKCash sind unmöglich zu fälschen. Benutzer können ihre Wallet und Hardware Wallet verschlüsseln oder ein Backup erstellen, dass das Geld der Zukunft sehr schwer zu stehlen oder zu verlieren ist. OKCash ist entworfen worden, um seine Benutzern zu unterstützen die volle Kontrolle über ihr Geld zu haben.
+
+Weltweite Erreichbarkeit
+
+Alle Zahlungen in der Welt können vollständig vereinbar sein. OKCash ermöglicht es jedem, Bank-, Geschäfts- oder Privatpersonen, jederzeit und mit einem Bankkonto jederzeit Zahlungen zu senden und zu erhalten. OKCash ist in einer Vielzahl von Ländern verfügbar, die aufgrund der eigenen Einschränkungen für die meisten Zahlungssysteme noch nicht erreichbar sind. OKCash erhöht den weltweiten Zugang zum Handel und kann internationalen Handel unterstützen, zu gedeihen.
+
+Kosteneffizienz, Energiefreundlich
+Langfristige Nachhaltigkeit
+
+Bei der Verwendung von Kryptographie sind sichere Zahlungen ohne langsame und kostspielige Zwischenhändler möglich. Eine OKCash-Transaktion kann viel billiger sein als ihre Alternativen und in kürzerer Zeit abgeschlossen sein. Dies bedeutet, dass OKCash ein Potenzial hat, ein allgemeines Mittel zu werden, jede Währung in der Zukunft zu übertragen. OKCash könnte auch eine Rolle spielen wie Bitcoin bei der Armutsbekämpfung in vielen Ländern, indem sie hohe Transaktionsgebühren für das Gehalt der Arbeitnehmer senken. OKCash nutzt die Proof-of-Stake-Technologie, was bedeutet, dass es keine Notwendigkeit für spezielle Ausrüstung oder hohe Energie-Rechnungen zu zahlen gibt, wie es bei den meisten Kryptowährung der Fall ist. Somit ist OKCash langfristig nachhaltig und energiefreundlich.
+
+Trinkgelder und Spenden
+
+OKCash war eine besonders effiziente Lösung um Trinkgelder und Spenden in mehreren Fällen unter sozialwissenschaftlichen Interaktionen auf die nächste Stufe zu bringen. Senden einer Zahlung erfordert nur einen Klick und Spenden erhalten kann so einfach sein, wie die einfache Anzeige eines QR-Code. Trinkgelder und Spenden sind für die Öffentlichkeit sichtbar und können sogar über soziale Netzwerke empfangen werden, wo sie den Benutzernamen anstelle von OKCash-Adressen verwendet, um OKCash zu senden und zu empfangen, was ihm ein erhöhtes soziales Potenzial und Transparenz für gemeinnützige Organisationen gibt. In Fällen von Notfällen wie Naturkatastrophen könnten OKCash-Spenden zu einer schnelleren internationalen Antwort beitragen.
+
+Social Crowdfunding
+
+OKCash kann verwendet werden, um Kickstarter-ähnliche Crowdfunding-Kampagnen zu starten und Social Crowdfunding-Kampagnen mit HeadTalker zu starten, in denen Einzelpersonen Geld an ein Projekt vergeben, das nur von ihnen genommen wird, wenn genügend Zusagen erhalten werden, um das Ziel zu erreichen, eine Idee oder ein Projekt zu unterstützen und Bewusstsein dafür zu schaffen. Versicherungs-Verträge werden durch das OKCash-Protokoll verarbeitet, was verhindert, dass eine Transaktion stattfindet, bis alle Bedingungen erfüllt sind.
+
+Mobile Zahlungen
+Mikrozahlungen
+
+Stellen Sie sich vor, für Ihren Kaffee oder Ihr Benzin mit einem einfachem Klick Ihres Fingers auf Ihr Handy, das Ansehen von Webseiten mit einer kleinen Spende zu belohnen für jede nicht-angezeigte Werbung, oder den Kauf von Datenvolumen an einem WiFi Hotspot. OKCash ist effizient genug, um all diese Ideen zu ermöglichen. Zahlungen passieren praktisch sofort und die Anzahl der insgesamt existierenden OKCash wird 5 mal die Anzahl der Bitcoin betragen, was OKCash volles Potenzial für die Entwicklung und Nutzung von mobile- und Mikro-Zahlungen gibt.
+	  	
+Automatisierte Lösungen, IoT, ROKOS
+
+Automatisierte Dienstleistungen müssen in der Regel mit Kosten und Beschränkungen von Bargeld oder Kreditkartenzahlungen umgehen. Dazu gehören alle Arten von Automaten, von Bustickets bis zu Kaffeemaschinen. OKCash eignet sich für den Einsatz in einer neuen Generation von automatisierten Diensten sowie zur Senkung der Betriebskosten. Stellen Sie sich selbstfahrende Taxis vor, oder ein Geschäft, in dem Ihr Einkaufskorb Ihnen ermöglicht, Ihre Einkäufe zu bezahlen, ohne in der Schlange zu stehen. Viele Ideen sind möglich. OKCash hat eine Freigabe für den kommenden IoT-Technologie-Code namens ROKOS für Raspberry Pi-Geräte, welches Software für die Top-Kryptpwährungen enthält und kostenlos für jeden verfügbar ist, damit die IoT-/Crypto-Bewegung sich bestens weiterentwickeln kann.
+
+Vertrauen und Integrität
+
+OKCash bietet Lösungen für viele der Vertrauensprobleme, die Banken plagen. Mit selektiver Buchhaltungstransparenz, digitalen Verträgen und irreversiblen Transaktionen kann OKCash als Grund zur Wiederherstellung von Vertrauen und Vereinbarung genutzt werden. Unehrliche Banken können das System nicht betrügen, um auf Kosten anderer Banken oder der Öffentlichkeit einen Gewinn zu erzielen. Eine Zukunft, in der Großbanken OKCash unterstützen würden, könnte dazu beitragen, Integrität und Vertrauen in Finanzinstitute wiederherzustellen.
+
+Resilienz und Dezentralisierung
+
+Durch seine hohe Dezentralisierung hat OKCash eine andere Form des Zahlungsnetzes mit einer erhöhten Resilienz und Redundanz geschaffen. OKCash kann Millionen von Dollars im Handel verkraften, ohne militärischen Schutz zu benötigen. Ohne einen zentralen Ausfallpunkt wie ein Rechenzentrum ist ein Angriff auf das Netzwerk ein schwierigeres Projekt. OKCash könnte einen interessanten Schritt zur Sicherung lokaler und globaler Finanzsysteme darstellen.
+
+Private Nachrichten
+
+Ein verschlüsseltes Nachrichten-Chat-System wird in die OKCash-Core-Wallet integriert und gibt den Benutzern die Möglichkeit, sichere und sogar anonyme Kommunikation zu etablieren, die Privatsphäre der Benutzer zu schützen und sie mit einem sozialen und sicheren weltweiten Kommunikationssystem zu befähigen.
+
+Proof of Stake
+Saving-Sharing Wirtschaflichkeit
+
+OKCash wurde kontinuierlich von den Nodes erstellt, die das Netzwerk sichern, was bedeutet, dass die Benutzer, die ihre Wallet behalten, einen %-Gewinn an den OkCash erhalten, die sie in ihrer Wallet halten, und macht OKCash zu einem perfekten System für eine gemeinsame Wirtschaft, in der die Benutzer das Netzwerk unterstützen und die Staking-Belohnungen sichern, die dann im Netzwerk neu verteilt werden.
+
+Multi-Signatur-Konten
+
+Mehrere Signaturen erlauben es, dass eine Transaktion nur vom Netz akzeptiert wird, wenn eine bestimmte Anzahl einer definierten Gruppe von Personen die Transaktion unterschreibt. Dies könnte von einem Vorstand genutzt werden, um zu verhindern, dass ein Mitglied Teile des Schatzamtes ohne Zustimmung der anderen Mitglieder ausgibt. Dies kann auch von Banken verwendet werden, um Diebstahl zu verhindern, indem sie Zahlungen über einen Schwellenwert sperrt, wenn der Benutzer keine zusätzlichen Anmeldeinformationen zur Verfügung stellt.
+
+Streitvermittlung
+
+OKCash kann verwendet werden, um innovative Streitvermittlungsdienste mit mehreren Signaturen zu entwickeln. Solche Dienste könnten es einem Dritten ermöglichen, eine Transaktion im Falle von Meinungsverschiedenheiten zwischen den anderen Parteien ohne Kontrolle über ihr Geld zu genehmigen oder abzulehnen. Da diese Dienste mit jedem Benutzer und Händler mit OKCash kompatibel wären, würde dies wahrscheinlich zu freiem Wettbewerb und höheren Qualitätsstandards führen.
+
+******c3
+
+Häufig gestellte Fragen - FAQ
+ 
+Wenn ich es richtig verstehe, musst du die OKCash Wallet auf deinem Computer laufen lassen um zu staken. Mit was genau ist es verbunden, und machen diese Verbindungen mich anfälliger gegen Hacker oder kann der Inhalt meiner Wallet kompromittiert werden? Sollte ich deswegen meine Wallet verschlüsseln?
+
+Die erste Annahme ist richtig, OKCash ist eine Proof-of-Stake Kryptowährung, die nachhaltiger, langfristig ist und fairer für den OKCash Inhabern ist und daher viel umweltfreundlicher als Proof-of-Work (Mining).
+
+-Zum Staking: Sie müssen OKCash in Ihrer Wallet haben und diese lassen Sie dann laufen, somit ist diese Wallet ein "Knoten" im Netzwerk. Das OKCash-Netzwerk wird von einer Menge dieser auf der ganzen Welt verstreuten Knoten erzeugt, überall dort, wo Menschen die Wallet herunterladen und anfangen ihre OKCash zu staken. Deshalb ist es dezentral und frei von Zwischenhändlern, da die Benutzer die wirkliche Macht hinter dem Netzwerk sind, in dem diese Knoten miteinander verbunden sind und es keine zentrale Autorität oder einzelne Ausfallpunkte wie bei Masternodes oder anderen Arten der Verteilung gibt. Nachdem Sie Ihre Wallet laufen gelassen haben, sollte Sie etwa 24 Stunden später Ihre ersten Belohnungen bekommen und diese OKCash werden nach 69 Bestätigungen vom Netzwerk, die Sie in der Wallet unter der Registerkarte Transaktionen prüfen kannst, reif und gebrauchsfertig.
+
+-Sicherheit: Die Verbindungen zur Wallet sind unbedenklich, da sie andere Knoten sind, die mit Ihrem verbunden sind und umgekehrt. Ihre Wallet blockiert automatisch inoffizielle oder bösartige Knoten, die sie erkennt. Zusätzlich können Sie Malawarebytes herunterladen und benutzen, um die Sicherheit zu erhöhen, da sie bösartiges IP blockiert Adressen und die Sicherheit Ihrer Verbindungen noch weiter erhöht. Um maximale Sicherheit zu haben, sollten Sie immer offizielle Software und nur aus offiziellen Quellen herunterladen.
+
+-Wallet-Verschlüsselung: Sie sollten Ihre Wallet verschlüsseln, falls jemand sonst Zugang zu Ihrem Computer erhält (über physikalischen oder Internet-Zugang) können diese Ihre OKCash nicht benutzen oder versenden, da sie das Passwort benötigen, um auch eine Transaktion zu vollziehen und darüber hinaus sind alle Wallet-Informationen innerhalb auch verschlüsselt.
+
+Wenn Ihre Wallet gesperrt ist, können Sie nur staken, wenn Sie die kleine Box mit "stake only" auswählen, damit Sie staken aber Ihr Passwort noch für eine Transaktion erforderlich ist. Ihre Wallet kann staken auch wenn Sie gesperrt ist. (Eine vollständig verschlüsselte und verschlossene Wallet nimmt nicht am Staking teil)
+
+
+-
+
+Wenn ich die Wallet sichern möchte, fordert sie mich auf, eine .dat-Datei zu speichern. Ich nehme an, das ist für den FAll, dass mein Computer kaputt geht und ich damit meine Festplatte verliere. Wie würde ich die neue Wallet-Installation mit dieser alten .dat-Datei wiederherstellen, wenn das passiert?
+
+Genauer gesagt, die wallet.dat Datei ist Ihre echte persönliche Wallet (Menschen nennen das Programm normalerweise eine Wallet, ist in der Tat jedoch ein Client oder Daemon, wenn unter seiner grafischen oder Kommandozeilen-Schnittstelle verwendet wird). Also Ihre echte "Wallet", diese Datei, davon sollten Sie immer sichere Sicherungen haben, die .dat-Datei.
+
+-Wallet.dat: Diese Datei enthält Ihre privaten Schlüssel, in einfacheren Begriffen hält es Ihre Adressen und alle OKcash in ihnen, das ist der Grund, warum nur Sie diese OKCash verwenden können, denn nur Sie haben diese privaten Schlüssel, wenn jemand anderes Zugang zu den privaten Schlüsseln bekommt, können diese die OKCash ausgeben. Das zeigt warum Verschlüsselung und Sicherheit wichtig ist, und eine Sicherung davon auf einem sicheren USB-Gerät nur falls irgendetwas passiert, wenn Ihrem Computer etwas zustößt.
+
+Um eine Wallet wiederherzustellen, müssen Sie die wallet.dat-Datei in den Data-Ordner legen, zB:
+
+Unter Windows finden Sie diesen Ordner unter: %appdata%/roaming/okcash und anschließend starten Sie dann einfach den Qt-Client und lassen ihn synchronisieren.
+
+-
+
+Wie lange dauert es, bis OKCash als "reif" betrachtet werden und anfangen selbst zu staken?
+
+Die OKCash sind in der Lage, nach den ersten 8 Stunden in Ihrer offenen Wallet zu staken, je nachdem, wie die Leute im Netzwerk staken, könnten Sie nach 24 Stunden oder mehr, bevor Sie einen konstanten Zustrom bekommen, Ihre ersten Belohnungen im Netzwerk verdienen.
+
+-Maturität: Ein OKCash ist reif, wenn man sie benutzen kann, Ihre OKCash sind nach 69 Bestätigungen reif.
+
+-
+
+
+Wenn man jetzt von der gesicherten Wallet ausgeht, sollte man die Wallet sichern und immer nur die neueste Sicherung aufheben oder kann man sie immer wieder zu verschiedenen Zeitpunkten sichern. Ich denke, ich frage mich ob das Sichern wie ein Snapshot funktioniert.
+
+Das funktioniert ein bisschen anders als diese Wahrnehmung, die wir von Dateien haben.
+
+Wie wir gerade gesehen haben, speichert unsere Wallet private Schlüssel (Adressen) und wir müssen uns daran erinnern, dass es eine Blockchain gibt (in der alle Transaktionen gespeichert sind), die Blockchain ist über alle OKCash Netzwerkknoten gespeichert und somit dezentral und immer verfügbar.
+
+Wenn Sie nun ein Backup Ihrer Wallet machen, wenn sie nur 3 Adressen enthält, könnte das Backup gültig und alle Ihre OKCash sicher sein, egal zu welchem Zeitpunkt, solange Sie keine andere Adresse erstellen, da das Backup nur noch 3 gespeichert hat. Wenn Sie mehr Adressen erzeugen, dann müssen Sie eine neue Sicherung machen, dass Sie wirklich eine volle Sicherung aller Ihrer privaten Schlüssel (Adressen) haben.
+
+Wenn die Blockchain oder in diesem Fall die OKChain die Transaktionen speichert, und solange Sie Ihre privaten Schlüssel haben, sind die OKCash in diesen Adressen sicher. Also, wenn Sie Ihre Festplatte mit 600 OKCash verlieren, solange Ihr Backup den privaten Schlüssel für diese Adresse hält, werden Sie immer noch das volle Guthaben haben, egal ob jemand Ihnen weitere OKCash zu dieser Adresse schickt und Sie den Computer ausschalten. Sie haben immer noch die 600 OKCash und auch die neuen Transaktionen sind auf der Kette gespeichert, also sind sie nie verloren, solange Sie die Schlüssel für Ihre Adresse haben, können nur Sie darauf zugreifen.
+
+-
+
+Was bedeutet mein Gewicht und was ist das Netzwerkgewicht in der Wallet? Beeinflusst es, wie lange es dauert, um über das Staking belohnt zu werden? Ich habe irgendwo gesehen, dass es von 200 Tagen bis über tausend Tage dauern kann, um sich eine Belohnung zu verdienen. Ich bin nur neugierig.
+
+In einfacher Hinsicht könnte man Ihr Gewicht als "Alter und Qualität" der OKCash für das Staking in Ihrer Wallet ansehen.
+
+Aus technischer Sicht:
+
+Das Gewicht jeder Adresse beginnt bei 0.
+Wenn eine Adresse eine Bestätigung liefert, erhöht sich ihr Gewicht nach mehreren Bestätigungen,
+Das gewicht nähert sich der Zahl der OKCash in der Adresse ab dem letzten Bestätigungsblock:
+
+Neues Gewicht = 0,9 * Altgewicht + 0,1 * Guthaben
+
+Wenn eine Bestätigung nicht von der Adresse in einem Bestätigungsblock bereitgestellt wird, nimmt sein Gewicht ab:
+
+Neues Gewicht = 0,9 * Altgewicht
+
+Auf diese Weise wird verhindert, dass Adressen und deren Besitzer, nicht an den Bestätigungen teilnehmen wollen, die Mehrheit erreichen.
+
+Wenn eine Adresse zwei gegensätzliche Blöcke besätigt, wird ihr Gewicht auf 0 zurückgesetzt. Dies dient dazu die Macht der bösartigen Stakeholder zu begrenzen.
+
+******c4
+
+Englisch
+
+Spanisch
+
+Chinesisch
+
+Russisch
+
+Deutsch
+
+******c5
+
+Haftungsausschluss / Disclaimer
+
+OKCash ist nur für legale Zwecke bestimmt und darf nicht anders verwendet werden. Weder OKCash noch irgendwelche Entwickler oder Mitwirkende davon unterstützen illegale Aktivitäten und werden ihnen in keiner Weise helfen.
+
+Soweit wir wissen, ist die Verwendung von OKCash in den meisten Rechtsordnungen nicht illegal. Allerdings können einige Staaten Einschränkungen für die Verwendung von Kryptowährungen und/oder Datenschutz-Tools erhoben, so dass Benutzer in diesen Ländern dies vor der Verwendung von OKCash prüfen sollten. Im Zweifelsfall wenden Sie sich bitte an einen örtlichen Anwalt, um etwas zu vermeiden, das in Ihrem Staat als illegal angesehen werden könnte.
+
+Der Inhalt dieser Website oder andere, die mit OKCash verbunden sind, stellt keine Rechtsberatung dar. Wenn Sie rechtliche Zweifel haben oder Hilfe benötigen, wenden Sie sich bitte an einen Rechtsanwalt in Ihrem Staat.
+
+Der Inhalt dieser Website oder andere mit OKCash verbundene Seiten sind keine Anlageberatung. Sie sollten Ihr eigenes Urteil verwenden und mehrere Informationsquellen erforschen, bevor Sie in OKCash investieren.
